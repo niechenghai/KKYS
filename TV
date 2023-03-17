@@ -1,6 +1,5 @@
-{ "warningText": "🌹🌹🌹康康影视精简路线，由抖音号千方百纪挑选二十四条精选路线，失效请联系千方百纪更新🌹🌹🌹",   "spider": "./jar/QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", 
-"logo": "https://epg.112114.xyz/logo/{name}.png"  
-         ]        }      ]    }  ],
+{ "warningText": "🌹🌹🌹康康影视，千方百纪专用🌹🌹🌹",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", 
+"logo": "https://epg.112114.xyz/logo/{name}.png"  ]        }      ]    }  ],
 
  // "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
   "wallpaper": "./wallpaper/01.png",
