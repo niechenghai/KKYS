@@ -53,13 +53,13 @@
 
 {"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "./token/01.txt","jar": "./jar/03.jar"},
 
-{"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/01.jar","ext": "./token/01.txt"},
+{"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/03.jar","ext": "./token/01.txt"},
 
-{"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/01.jar","ext": "./token/01.txt"},
+{"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/02.jar","ext": "./token/01.txt"},
 
-{"key": "盘搜","name": "网盘┃盘搜搜索","type": 3,"api": "csp_PanSou","jar": "./jar/01.jar","ext": "./token/01.txt"},
+{"key": "盘搜","name": "网盘┃盘搜搜索","type": 3,"api": "csp_PanSou","jar": "./jar/02.jar","ext": "./token/01.txt"},
 
-{"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/01.jar","ext": "./token/01.txt"},
+{"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "./token/01.txt"},
 
 {      "key": "csp_sp_酷云七七",      "name": "推荐┃酷云七七",      "type": 3,      "api": "csp_Kunyu77",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
 
@@ -67,7 +67,7 @@
 
 {      "key": "csp_sp_小苹果源",      "name": "推荐┃小苹果源",      "type": 3,      "api": "csp_LiteApple",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
 
-{      "key": "csp_AppTT",      "name": "推荐┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/02.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },    
+{      "key": "csp_AppTT",      "name": "推荐┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },    
 
 
 {      "key": "csp_sp_快看影视",      "name": "推荐┃快看影视",      "type": 3,      "api": "csp_Kuaikan",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
