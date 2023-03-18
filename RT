@@ -126,10 +126,18 @@
 //{      "key": "直播8",      "name": "动画┃名侦探柯南",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/名侦探柯南.txt"    },    
 
 
-//{      "key": "直播9",      "name": "动画┃哆啦A梦",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/哆啦梦.txt"    },    
+//{      "key": "直播9",      "name": "动画┃哆啦A梦",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/哆啦梦.txt"    },
+
+ {      "key": "csp_Anime1",      "name": "动漫┃动漫系列",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar"    },     
 
 
-//{      "key": "直播10",      "name": "电视┃看会电视",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    }
+   {      "key": "去看动漫",      "name": "动漫┃去看动漫",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,  "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/去看动漫.json"    },    
+   
+   {      "key": "动漫直链",      "name": "动漫┃动漫直链",      "type": 3,      "api": "csp_XPath",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,  "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/动漫直链.json"    },    
+   
+   {      "key": "csp_biubiu_风车动漫",      "name": "动漫┃风车动漫",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/风车动漫.json"    },    
+
+{      "key": "直播10",      "name": "电视┃看会电视",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",     "ext": "千方百纪$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    }
  
    ],  
    
