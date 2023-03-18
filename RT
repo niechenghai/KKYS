@@ -8,11 +8,89 @@
  
  {      "key": "cps_bl_学习园地",      "name": "知识┃学习园地",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/学习园地.json"    },     
   
-       {      "key": "dr_兔小贝",      "name": "学习┃儿童启蒙",      "type": 3,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/drpy.min.js",      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/兔小贝.js",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    },    {      "key": "少儿教育",      "name": "学习┃少儿教育",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/少儿教育.json"    },    {     "key": "小学课堂",      "name": "学习┃小学课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/小学课堂.json"    },    {      "key": "初中课堂",      "name": "学习┃初中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,  "jar": "./jar/02.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/初中课堂.json"    },    {      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/高中课堂.json"    },
-
-{      "key": "直播",      "name": "电视┃直播",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$clan://localhost/tvboxhh/0317fty/live1.txt#康康影视$clan://localhost/tvboxhh/0317fty/live.txt#康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },        
+ {      "key": "少儿教育",      "name": "学习┃少儿教育",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/少儿教育.json"    },  
+ 
+     {     "key": "小学课堂",      "name": "学习┃小学课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/小学课堂.json"    },   
+     
+       {      "key": "初中课堂",      "name": "学习┃初中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,  "jar": "./jar/02.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/初中课堂.json"    },   
        
-{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
+         {      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/高中课堂.json"    },
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    }, 
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+   
+
+{      "key": "短视频聚合",      "name": "合集┃刷会视频",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/短视频聚合.json"    },
+
+{"key":"哔哩影视","name":"影视 | 哔哩","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩影视.js"},
+
+
+{"key":"哔哩直播","name":"直播 | 哔哩","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩直播.js"},
+
+
+{      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "./json/斗鱼.json"    },  
+{      "key": "csp_xp_虎牙直播",      "name": "直播┃虎牙直播",      "type": 3,      "api": "csp_XPathMacFilter",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./json/虎牙.json"    }, 
+
+{      "key": "网易CC",      "name": "直播┃网易直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/网易CC.json"    }, 
+ 
+{      "key": "csp_jl_直播合集",      "name": "直播┃直播合集",      "type": 3,      "api": "csp_Yj1211",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
+
+
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃熊出没",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃龙珠",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+{      "key": "直播",      "name": "动画┃数码宝贝",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃贝乐虎儿歌",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃宝贝纠纠",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃儿歌多多",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃名侦探柯南",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃奥特曼",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    }
+ 
    ],  
    
  "parses": [    

@@ -31,8 +31,125 @@
  
  {      "key": "cps_bl_学习园地",      "name": "知识┃学习园地",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/学习园地.json"    },     
   
-       {      "key": "dr_兔小贝",      "name": "学习┃儿童启蒙",      "type": 3,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/drpy.min.js",      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/兔小贝.js",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    },    {      "key": "少儿教育",      "name": "学习┃少儿教育",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/少儿教育.json"    },    {     "key": "小学课堂",      "name": "学习┃小学课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/小学课堂.json"    },    {      "key": "初中课堂",      "name": "学习┃初中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,  "jar": "./jar/02.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/初中课堂.json"    },    {      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/高中课堂.json"    },
-{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
+{      "key": "少儿教育",      "name": "学习┃少儿教育",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/少儿教育.json"    },    
+
+{     "key": "小学课堂",      "name": "学习┃小学课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/小学课堂.json"    },    
+
+{      "key": "初中课堂",      "name": "学习┃初中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,  "jar": "./jar/02.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/初中课堂.json"    },    
+
+{      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/高中课堂.json"    },
+
+        {
+            "key" : "py_明星MV",
+            "name" : "合集 ┃ 明星MV",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/明星MV.py"
+        },
+        
+        {
+            "key" : "py_yanchh",
+            "name" : "合集 ┃CCTV ",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/CCTV.py"
+        },
+        
+        {
+            "key" : "py_康康搭配",
+            "name" : "合集 ┃ 康康搭配",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/康康搭配.py"
+        },
+        
+        {
+            "key" : "py_康康搭讪",
+            "name" : "合集 ┃ 康康搭讪",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/康康搭讪.py"
+        }, 
+        
+        {
+            "key" : "py_美女热舞",
+            "name" : "合集 ┃ 美女热舞",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/美女热舞.py"
+        },
+        
+        {
+            "key" : "py_球队球星",
+            "name" : "合集 ┃ 球队球星",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/球队球星.py"
+        },
+        
+        {
+            "key" : "py_音乐合集",
+            "name" : "合集 ┃ 音乐百汇",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/音乐合集.py"
+        },
+        
+        {
+            "key" : "py_歌手专辑",
+            "name" : "合集 ┃ 歌手专辑",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/歌手专辑.py"
+        },
+        
+        {
+            "key" : "py_中国文件",
+            "name" : "合集 ┃ 中国文化",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/中国文化.py"
+        },
+        
+        {
+            "key" : "py_中国医药",
+            "name" : "合集 ┃ 中国医药",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/中国医药.py"
+        }
+
+
    ],  
    
  "parses": [    
