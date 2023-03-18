@@ -15,7 +15,29 @@
        {      "key": "初中课堂",      "name": "学习┃初中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,  "jar": "./jar/02.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/初中课堂.json"    },   
        
          {      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/高中课堂.json"    },
-
+         
+{
+            "key" : "py_yanchh",
+            "name" : "历史 ┃中国朝代 ",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/中国朝代.py"
+        },
+        
+        {
+            "key" : "py_yanchh",
+            "name" : "视频 ┃奥特曼 ",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/奥特曼.py"
+        },
+        
 {      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    }, 
 
 {      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
@@ -63,33 +85,33 @@
 {      "key": "csp_jl_直播合集",      "name": "直播┃直播合集",      "type": 3,      "api": "csp_Yj1211",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
 
 
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/小猪佩奇.txt"    },    
 
 
-{      "key": "直播",      "name": "动画┃熊出没",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+{      "key": "直播",      "name": "动画┃熊出没",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/熊出没.txt"    },    
 
 
-{      "key": "直播",      "name": "动画┃龙珠",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+{      "key": "直播",      "name": "动画┃七龙珠",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/七龙珠.txt"    },    
 
-{      "key": "直播",      "name": "动画┃数码宝贝",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃贝乐虎儿歌",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+{      "key": "直播",      "name": "动画┃数码宝贝",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/数码宝贝.txt"    },    
 
 
-{      "key": "直播",      "name": "动画┃宝贝纠纠",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+{      "key": "直播",      "name": "动画┃贝乐虎儿歌",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/贝乐虎.txt"    },    
 
 
-{      "key": "直播",      "name": "动画┃儿歌多多",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+{      "key": "直播",      "name": "动画┃超级宝贝",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/超级宝贝.txt"    },    
 
 
-{      "key": "直播",      "name": "动画┃名侦探柯南",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+{      "key": "直播",      "name": "动画┃儿歌多多",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/儿歌多多.txt"    },    
 
 
-{      "key": "直播",      "name": "动画┃奥特曼",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
+{      "key": "直播",      "name": "动画┃名侦探柯南",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/名侦探柯南.txt"    },    
 
 
-{      "key": "直播",      "name": "动画┃",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    }
+{      "key": "直播",      "name": "动画┃哆啦A梦",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/哆啦梦.txt"    },    
+
+
+{      "key": "直播",      "name": "动画┃喜羊羊",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/喜羊羊与灰太狼.txt"    }
  
    ],  
    
