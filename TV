@@ -1,7 +1,7 @@
 { "warningText": "🌹🌹🌹康康影视，千方百纪专用🌹🌹🌹",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
 
- // "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
-  "wallpaper": "./wallpaper/01.png",
+  "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
+  //"wallpaper": "./wallpaper/01.png",
 
   "sites": [    
   {      "key": "csp_sp_T4聚合",      "name": "抖音┃千方百纪",      "type": 4,      "api": "https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=10",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    } ,

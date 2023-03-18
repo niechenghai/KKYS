@@ -1,27 +1,7 @@
-{ "warningText": "🌹🌹🌹康康影视，千方百纪专用🌹🌹🌹",   "spider": "./QFBJ.jar", // "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
+{ "warningText": "🌹🌹🌹康康影视，合集专用🌹🌹🌹",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
 
   "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
   //"wallpaper": "./wallpaper/01.png",
-  
-      "lives": [{"group": "🎵•千方百纪","channels": [
-{"name":"抖音搜索","urls":["http://epg.112114.xyz/douyu/8901218"]},
-{"name":"千方百纪","urls":["http://epg.112114.xyz/douyu/8759139"]}
-]},
-
-{"group": "🐭•测试频道","channels": [
-{"name":"斗鱼轮播影视","urls":["http://epg.112114.xyz/douyu/7971641"]},
-{"name":"国语电影轮播","urls":["http://epg.112114.xyz/douyu/2436390"]},
-{"name":"庆余年电视剧","urls":["http://epg.112114.xyz/douyu/9633542"]},
-{"name":"欢乐颂电视剧","urls":["http://epg.112114.xyz/douyu/3756989"]},
-{"name":"好先生电视剧","urls":["http://epg.112114.xyz/douyu/9650792"]},
-{"name":"吐槽大会吐槽","urls":["http://epg.112114.xyz/douyu/9236042"]},
-{"name":"爱奇电影粤语","urls":["http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key"]},
-{"name":"粤语版电影1","urls":["http://epg.112114.xyz/douyu/5033502"]},
-{"name":"粤语版电影2","urls":["http://epg.112114.xyz/douyu/6566671"]},
-{"name":"粤语版电影3","urls":["http://epg.112114.xyz/douyu/1226741"]},
-{"name":"开国大典修复","urls":["https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcWRaQXVqUUttYXpiUVJnSTFiVnJzVDNRSFk_ZT0yUDA5a0g"]}
-]}],
-
 
   "sites": [    
   {      "key": "csp_sp_T4聚合",      "name": "抖音┃千方百纪",      "type": 4,      "api": "https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=10",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    } ,
@@ -33,6 +13,7 @@
 {"key": "csp_sp_奇艺视频",      "name": "官方┃奇艺视频",      "type": 3,      "api": "csp_IQIYI",      "searchable": 0,      "quickSearch": 0,      "filterable": 1    },    {      "key": "csp_sp_芒果视频",      "name": "官方┃芒果视频",      "type": 3,      "api": "csp_MGTV",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
    
 //{      "key": "cps_xp_优酷视频",      "name": "官方┃优酷视频",      "type": 0,      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "categories": [        "综艺",        "动漫",        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "国产剧",        "港台剧",        "日韩剧",        "欧美剧",        "惊悚片",        "犯罪片",        "冒险片",        "悬疑片",        "动画片",        "武侠片",        "奇幻片"      ]    },  
+
   
 {      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "./json/斗鱼.json"    },  
 {      "key": "csp_xp_虎牙直播",      "name": "直播┃虎牙直播",      "type": 3,      "api": "csp_XPathMacFilter",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./json/虎牙.json"    }, 
@@ -49,7 +30,6 @@
 {      "key": "短视频聚合",      "name": "合集┃康康视频",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/短视频聚合.json"    },
 
 {      "key": "csp_XYQHiker_有声小说吧",      "name": "小说┃有声小说",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "./jar/02.jar",  "ext": "./json/有声小说吧.json"    },
-
 
 {"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "./token/01.txt","jar": "./jar/03.jar"},
 
