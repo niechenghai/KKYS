@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 { "warningText": "🐵🐵🐵康康影视，哔哩合集专用🐓🐓🐓",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
+=======
+{ "warningText": "🌹🌹🌹康康影视，合集专用🌹🌹🌹",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
+>>>>>>> 099674c7240efabb5a26dcb16767e1c4e809073c
 
   "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
   //"wallpaper": "./wallpaper/01.png",
 
+<<<<<<< HEAD
   "sites": [ 
   
  {      "key": "csp_sp_360影视",      "name": "抖音┃千方百纪",      "api": "csp_SP360",      "type": 3,      "filterable": 1,      "quickSearch": 1,      "searchable": 1,      "ext": ""    }, 
@@ -36,6 +41,58 @@
  
  
  //{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
+=======
+  "sites": [    
+  {      "key": "csp_sp_T4聚合",      "name": "抖音┃千方百纪",      "type": 4,      "api": "https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=10",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    } ,
+     
+  {      "key": "csp_sp_360影视",      "name": "官方┃360影视",      "api": "csp_SP360",      "type": 3,      "filterable": 1,      "quickSearch": 1,      "searchable": 1,      "ext": ""    }, 
+     
+  {      "key": "csp_sp_腾讯视频",      "name": "官方┃腾讯视频",      "type": 3,      "api": "csp_QQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+     
+{"key": "csp_sp_奇艺视频",      "name": "官方┃奇艺视频",      "type": 3,      "api": "csp_IQIYI",      "searchable": 0,      "quickSearch": 0,      "filterable": 1    },    {      "key": "csp_sp_芒果视频",      "name": "官方┃芒果视频",      "type": 3,      "api": "csp_MGTV",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
+   
+//{      "key": "cps_xp_优酷视频",      "name": "官方┃优酷视频",      "type": 0,      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "categories": [        "综艺",        "动漫",        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "国产剧",        "港台剧",        "日韩剧",        "欧美剧",        "惊悚片",        "犯罪片",        "冒险片",        "悬疑片",        "动画片",        "武侠片",        "奇幻片"      ]    },  
+
+  
+{      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "./json/斗鱼.json"    },  
+{      "key": "csp_xp_虎牙直播",      "name": "直播┃虎牙直播",      "type": 3,      "api": "csp_XPathMacFilter",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./json/虎牙.json"    }, 
+
+{      "key": "网易CC",      "name": "直播┃网易直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/网易CC.json"    }, 
+ 
+{      "key": "csp_jl_直播合集",      "name": "直播┃直播合集",      "type": 3,      "api": "csp_Yj1211",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
+
+
+   {"key": "直播转点播","name": "直播┃电视直播","type": 4,"api": "http://120.53.102.254/live?url=http://home.jundie.top:81/ray/tvlive.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
+   
+{      "key": "cps_bl_哔哩哔哩",      "name": "合集┃哔哩综合",      "type": 3,      "api": "csp_Bili",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./json/哔哩哔哩.json"    },
+
+{      "key": "短视频聚合",      "name": "合集┃康康视频",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/短视频聚合.json"    },
+
+{      "key": "csp_XYQHiker_有声小说吧",      "name": "小说┃有声小说",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "./jar/02.jar",  "ext": "./json/有声小说吧.json"    },
+
+{"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "./token/01.txt","jar": "./jar/03.jar"},
+
+{"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/02.jar","ext": "./token/01.txt"},
+
+{"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/02.jar","ext": "./token/01.txt"},
+
+{"key": "盘搜","name": "网盘┃盘搜搜索","type": 3,"api": "csp_PanSou","jar": "./jar/02.jar","ext": "./token/01.txt"},
+
+{"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "./token/01.txt"},
+
+{      "key": "csp_sp_酷云七七",      "name": "推荐┃酷云七七",      "type": 3,      "api": "csp_Kunyu77",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+
+{      "key": "csp_sp_龙门影视",      "name": "推荐┃龙门影视",      "type": 3,      "api": "csp_AppYsV2",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"    },    
+
+{      "key": "csp_sp_小苹果源",      "name": "推荐┃小苹果源",      "type": 3,      "api": "csp_LiteApple",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+
+{      "key": "csp_AppTT",      "name": "推荐┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },    
+
+
+{      "key": "csp_sp_快看影视",      "name": "推荐┃快看影视",      "type": 3,      "api": "csp_Kuaikan",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+
+{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
+>>>>>>> 099674c7240efabb5a26dcb16767e1c4e809073c
    ],  
    
  "parses": [    

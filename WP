@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 { "warningText": "🐶🐶🐶康康影视，网盘高清4k专用🐷🐷🐷",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
+=======
+{ "warningText": "🌹🌹🌹康康影视，网站专用🌹🌹🌹",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
+>>>>>>> 099674c7240efabb5a26dcb16767e1c4e809073c
 
   "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
  // "wallpaper": "./wallpaper/01.png",
@@ -15,9 +19,14 @@
 
 {"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "./token/01.txt"},
 
+<<<<<<< HEAD
 {      "key": "Zhaozy",      "name": "网盘┃找资源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "changeable": 0,    "jar": "./jar/02.jar",  "ext": "http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"    }
 
 ],  
+=======
+{{      "key": "Zhaozy",      "name": "找资源┃4K",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "changeable": 0,   "./jar/02.jar",   "ext": "token/01.txt"    }
+   ],  
+>>>>>>> 099674c7240efabb5a26dcb16767e1c4e809073c
    
  "parses": [    
  
