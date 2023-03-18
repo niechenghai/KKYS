@@ -38,36 +38,6 @@
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/奥特曼.py"
         },
         
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    }, 
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-
-
-{      "key": "直播",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    },    
-   
 
 {      "key": "短视频聚合",      "name": "合集┃刷会视频",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/短视频聚合.json"    },
 
