@@ -17,44 +17,46 @@
 
 {      "key": "csp_AppTT",      "name": "精选┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },  
 
- {      "key": "csp_BuLei",      "name": "精选┃布雷",      "type": 3,      "api": "csp_BuLei",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://www.bulei.cc" , "jar": "./jar/02.jar"  },    
+ {      "key": "csp_BuLei",      "name": "精选┃布雷",      "type": 3,      "api": "csp_BuLei",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,     "jar": "./jar/02.jar", "ext": "https://www.bulei.cc"    },    
+  
+  {      "key": "csp_Nkdy",      "name": "精选┃耐看",      "type": 3,      "api": "csp_Nkdy",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    
+  
+  {      "key": "csp_Hlsp",      "name": "精选┃黑料",      "type": 3,      "api": "csp_Hlsp",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": ".json/黑料.json"    },
  
- {      "key": "csp_77",      "name": "精选┃七七",      "type": 3,      "api": "csp_Kunyu77",      "searchable": 1,      "quickSearch": 1,      "filterable": 1 ,"jar": "./jar/02.jar"   },    
- 
- {      "key": "csp_AppMr",      "name": "精选┃明明",      "type": 3,      "api": "csp_AppMr",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1 ,"jar": "./jar/02.jar"   },   
+ {      "key": "csp_AppMr",      "name": "精选┃明明",      "type": 3,      "api": "csp_AppMr",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },   
  
  {      "key": "csp_Lib",      "name": "精选┃利奥",      "type": 3,      "api": "csp_Libvio",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,  "jar": "./jar/02.jar",     "ext": "https://tv.libvio.cc/"    },    
  
  {      "key": "csp_fantuan",      "name": "精选┃饭团",      "type": 3,      "api": "csp_Fantuan",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "./jar/02.jar",   "ext": "https://www.fantuanhd.com"    },    
  
- {      "key": "csp_Vofl",      "name": "精选┃Vofl",      "type": 3,      "api": "csp_Voflix",      "searchable": 1,      "quickSearch": 1,      "filterable": 1  ,"jar": "./jar/02.jar",   },    
+ {      "key": "csp_Vofl",      "name": "精选┃Vofl",      "type": 3,      "api": "csp_Voflix",      "searchable": 1,      "quickSearch": 1,      "filterable": 1     },    
  
- {      "key": "csp_Xinsj",      "name": "🐼新视觉",      "type": 3,      "api": "csp_Xinsj",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "jar": "./jar/02.jar", "ext": "https://www.6080dy3.com"    },    
+ {      "key": "csp_Xinsj",      "name": "精选┃新视觉",      "type": 3,      "api": "csp_Xinsj",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "jar": "./jar/02.jar", "ext": "https://www.6080dy3.com"    },    
  
- {      "key": "csp_Czsapp",      "name": "精选┃厂长",      "type": 3,      "api": "csp_Czsapp",      "m3u8ads": "hd.youyhn.com",      "playerType": 2,      "searchable": 1,      "quickSearch": 1,      "filterable": 1 ,"jar": "./jar/02.jar"   },    
+ {      "key": "csp_Czsapp",      "name": "精选┃厂长",      "type": 3,      "api": "csp_Czsapp",      "m3u8ads": "hd.youyhn.com",      "playerType": 2,      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    
  
- {      "key": "csp_DiDuan",      "name": "精选┃低端",      "type": 3,      "api": "csp_Ddrk",      "searchable": 1,      "quickSearch": 1,      "filterable": 0 ,"jar": "./jar/02.jar"   },    
+ {      "key": "csp_DiDuan",      "name": "精选┃低端",      "type": 3,      "api": "csp_Ddrk",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    },    
  
- {      "key": "csp_Cokemv",      "name": "精选┃可乐",      "type": 3,      "api": "csp_Cokemv",      "playerType": 2,      "searchable": 1,      "quickSearch": 1,      "filterable": 1  ,"jar": "./jar/02.jar"  },    
+ {      "key": "csp_Cokemv",      "name": "精选┃可乐",      "type": 3,      "api": "csp_Cokemv",      "playerType": 2,      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    
  
  
- {      "key": "csp_Bttoo",      "name": "精选┃比特",      "type": 3,      "api": "csp_Bttwoo",      "searchable": 1,      "quickSearch": 1,      "filterable": 1, "jar": "./jar/02.jar"   },    
+ {      "key": "csp_Bttoo",      "name": "精选┃比特",      "type": 3,      "api": "csp_Bttwoo",      "searchable": 1,      "quickSearch": 1,      "filterable": 1 },    
  
  {      "key": "csp_zxzj",      "name": "精选┃在线",      "type": 3,      "api": "csp_Zxzj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "./jar/02.jar",   "ext": "https://www.zxzj.org"    },    
  
  
  {      "key": "csp_Lgyy",      "name": "精选┃蓝光",      "type": 3,      "api": "csp_Lgyy",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",    "ext": "https://www.lgyy.vip"    },    
  
- {      "key": "csp_Smdyy",      "name": "精选┃神马",      "type": 3,      "api": "csp_Smdyy",      "searchable": 1,      "quickSearch": 1,      "filterable": 1  ,"jar": "./jar/02.jar"  },    
+ {      "key": "csp_Smdyy",      "name": "精选┃神马",      "type": 3,      "api": "csp_Smdyy",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    
  
- {      "key": "csp_Bd",      "name": "精选┃哔嘀",      "type": 3,      "api": "csp_Bdys01",      "playerType": 1,      "searchable": 1,      "quickSearch": 1,      "filterable": 1 ,"jar": "./jar/02.jar"   },    
+ {      "key": "csp_Bd",      "name": "精选┃哔嘀",      "type": 3,      "api": "csp_Bdys01",      "playerType": 1,      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    
  
  {      "key": "csp_Nmys",      "name": "精选┃农民",      "type": 3,      "api": "csp_Nmys",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",    "ext": ".json/农民.json"    },    
  
  {      "key": "csp_Ysgc",      "name": "精选┃工厂",      "type": 3,      "api": "csp_Ysgc",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",    "ext": "https://www.ysgc.vip"    },    
  
  {
-      "key": "csp_panghu",      "name": "精选┃胖虎",      "type": 3,      "api": "csp_Panghu",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1  ,"jar": "./jar/02.jar"  }     
+      "key": "csp_panghu",      "name": "精选┃胖虎",      "type": 3,      "api": "csp_Panghu",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }     
 
      
  // {      "key": "csp_sp_腾讯视频",      "name": "官方┃腾讯视频",      "type": 3,      "api": "csp_QQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
