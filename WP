@@ -15,8 +15,7 @@
 
 {"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "./token/01.txt"},
 
-{"key": "找资源","name": "网盘┃找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,      "quickSearch": 1,      "filterable": 0,      "changeable": 0,  "jar": "./jar/02.jar","ext": "./token/01.txt"}
-
+{{      "key": "Zhaozy",      "name": "找资源┃4K",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "changeable": 0,   "./jar/02.jar",   "ext": "token/01.txt"    }
    ],  
    
  "parses": [    
