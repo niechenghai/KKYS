@@ -117,14 +117,14 @@
         },
         
         {
-            "key" : "py_歌手专辑",
-            "name" : "合集 ┃ 歌手专辑",
+            "key" : "py_歌手合辑",
+            "name" : "合集 ┃ 歌手合辑",
             "type" : 3,
             "api" : "py_yanchh",
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/歌手专辑.py"
+            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/歌手合辑.py"
         },
         
         {
