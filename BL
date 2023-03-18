@@ -1,10 +1,9 @@
-{ "warningText": "🐵🐵🐵康康影视，哔哩合集专用🐓🐓🐓",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
+{ "warningText": "🙊🙊🙊康康影视，儿童专用🐓🐓🐓",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
 
   "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
   //"wallpaper": "./wallpaper/01.png",
 
-  "sites": [ 
-    
+  "sites": [    
  {      "key": "cps_bl_哔哩哔哩",      "name": "合集┃哔哩综合",      "type": 3,      "api": "csp_Bili",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/哔哩哔哩.json"    },
  
            
@@ -28,8 +27,12 @@
  
  {      "key": "cps_bl_美食天地",      "name": "合集┃美食天地",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/美食天地.json"    },    
  
+ {      "key": "cps_bl_儿童乐园",      "name": "儿童┃儿童乐园",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "./Bili/儿童乐园.json"    },    
  
- //{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
+ {      "key": "cps_bl_学习园地",      "name": "知识┃学习园地",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/学习园地.json"    },     
+  
+       {      "key": "dr_兔小贝",      "name": "学习┃儿童启蒙",      "type": 3,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/drpy.min.js",      "ext": ""https://raw.iqiq.io/QFBJ/KKYS/main/JS/兔小贝.js",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    },    {      "key": "少儿教育",      "name": "学习┃少儿教育",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/少儿教育.json"    },    {     "key": "小学课堂",      "name": "学习┃小学课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/小学课堂.json"    },    {      "key": "初中课堂",      "name": "学习┃初中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,  "jar": "./jar/02.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/初中课堂.json"    },    {      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/高中课堂.json"    },
+{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
    ],  
    
  "parses": [    

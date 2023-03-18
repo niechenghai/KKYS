@@ -67,7 +67,49 @@
 
 {      "key": "csp_sp_小苹果源",      "name": "推荐┃小苹果源",      "type": 3,      "api": "csp_LiteApple",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
 
-{      "key": "csp_AppTT",      "name": "推荐┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },    
+{      "key": "csp_AppTT",      "name": "推荐┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    }, 
+
+{      "key": "mtv_百影视频",      "name": "精选┃百影视频",      "type": 3,      "api": "csp_MianHua",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/00.jar",      "ext": "http://47.104.99.175"    }, 
+
+
+{      "key": "csp_XBPQ_乐猪影视",      "name": "精选┃乐猪影视",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/乐猪.json"    }, 
+
+{      "key": "csp_XBPQ_TVB云播",      "name": "精选┃TVB云播",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/tvb云播.json"    },   
+
+ {      "key": "csp_BuLei",      "name": "精选┃布雷影视",      "type": 3,      "api": "csp_BuLei",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,     "jar": "./jar/02.jar", "ext": "https://www.bulei.cc"    },    
+  
+  {      "key": "csp_Nkdy",      "name": "精选┃耐看影视",      "type": 3,      "api": "csp_Nkdy",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "./jar/02.jar"    },    
+  
+  {      "key": "csp_Hlsp",      "name": "精选┃黑料影视",      "type": 3,      "api": "csp_Hlsp",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/黑料.json","jar": "./jar/02.jar"    },
+ 
+ {      "key": "csp_AppMr",      "name": "精选┃明明影视",      "type": 3,      "api": "csp_AppMr",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "./jar/02.jar"    },   
+ 
+ {      "key": "csp_Lib",      "name": "精选┃利奥影视",      "type": 3,      "api": "csp_Libvio",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,  "jar": "./jar/02.jar",     "ext": "https://tv.libvio.cc/"    },    
+ 
+ {      "key": "csp_fantuan",      "name": "精选┃饭团影视",      "type": 3,      "api": "csp_Fantuan",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "./jar/02.jar",   "ext": "https://www.fantuanhd.com"    },    
+ 
+ {      "key": "csp_Vofl",      "name": "精选┃Vofl影视",      "type": 3,      "api": "csp_Voflix",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "./jar/02.jar"     },    
+ 
+ {      "key": "csp_Xinsj",      "name": "精选┃新视觉影视",      "type": 3,      "api": "csp_Xinsj",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "jar": "./jar/02.jar", "ext": "https://www.6080dy3.com"    },    
+ 
+ {      "key": "csp_Czsapp",      "name": "精选┃厂长影视",      "type": 3,      "api": "csp_Czsapp",      "m3u8ads": "hd.youyhn.com",      "playerType": 2,      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "./jar/02.jar"    },    
+ 
+ {      "key": "csp_DiDuan",      "name": "精选┃低端影视",      "type": 3,      "api": "csp_Ddrk",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,"jar": "./jar/02.jar"    },    
+ 
+ {      "key": "csp_Cokemv",      "name": "精选┃可乐影视",      "type": 3,      "api": "csp_Cokemv",      "playerType": 2,      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "./jar/02.jar"    },    
+ 
+ 
+// {      "key": "csp_Bttoo",      "name": "精选┃比特影视",      "type": 3,      "api": "csp_Bttwoo",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "./jar/02.jar" },    
+ 
+ {      "key": "csp_zxzj",      "name": "精选┃在线影视",      "type": 3,      "api": "csp_Zxzj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "./jar/02.jar",   "ext": "https://www.zxzj.org"    },    
+ 
+ 
+ {      "key": "csp_Lgyy",      "name": "精选┃蓝光影视",      "type": 3,      "api": "csp_Lgyy",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",    "ext": "https://www.lgyy.vip"    },    
+ 
+ 
+ {      "key": "csp_Nmys",      "name": "精选┃农民影视",      "type": 3,      "api": "csp_Nmys",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/农民.json"    },    
+ 
+ {      "key": "csp_Ysgc",      "name": "精选┃工厂影视",      "type": 3,      "api": "csp_Ysgc",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/02.jar",    "ext": "https://www.ysgc.vip"    } ,      
 
 
 {      "key": "csp_sp_快看影视",      "name": "推荐┃快看影视",      "type": 3,      "api": "csp_Kuaikan",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
