@@ -16,6 +16,7 @@
        
          {      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/高中课堂.json"    },
          
+{      "key": "直播10",      "name": "电视┃看会电视",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",     "ext": "千方百纪$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt#康康影视$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#康康影音$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"    },
         
 
 {      "key": "短视频聚合",      "name": "合集┃刷会视频",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/短视频聚合.json"    },
@@ -46,7 +47,7 @@
         
         {
             "key" : "py_奥特曼",
-            "name" : "视频 ┃奥特曼 ",
+            "name" : "合集 ┃奥特曼 ",
             "type" : 3,
             "api" : "py_yanchh",
             "searchable" : 1,
@@ -69,7 +70,7 @@
         
         {
             "key" : "py_熊出没",
-            "name" : "视频 ┃熊出没 ",
+            "name" : "动画 ┃熊出没 ",
             "type" : 3,
             "api" : "py_yanchh",
             "searchable" : 1,
@@ -81,7 +82,7 @@
 
 {
             "key" : "py_十二生肖",
-            "name" : "介绍 ┃十二生肖 ",
+            "name" : "常识 ┃十二生肖 ",
             "type" : 3,
             "api" : "py_yanchh",
             "searchable" : 1,
@@ -92,7 +93,7 @@
         
         {
             "key" : "py_十二星座",
-            "name" : "介绍 ┃十二星座 ",
+            "name" : "常识 ┃十二星座 ",
             "type" : 3,
             "api" : "py_yanchh",
             "searchable" : 1,
@@ -135,9 +136,8 @@
    
    {      "key": "动漫直链",      "name": "动漫┃动漫直链",      "type": 3,      "api": "csp_XPath",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,  "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/动漫直链.json"    },    
    
-   {      "key": "csp_biubiu_风车动漫",      "name": "动漫┃风车动漫",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/风车动漫.json"    },    
+   {      "key": "csp_biubiu_风车动漫",      "name": "动漫┃风车动漫",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/风车动漫.json"    }    
 
-{      "key": "直播10",      "name": "电视┃看会电视",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",     "ext": "千方百纪$https://raw.iqiq.io/QFBJ/KKYS/main/live/01.txt"    }
  
    ],  
    
