@@ -1,23 +1,23 @@
 {
   "data": [
     {
-      "name": "康康音乐源",
+      "name": "康康音乐一",
       "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/01.png",
       "url": "https://music.youte.ml",
       "type": "web",     
       "desc": "",
       "show": true
-    }, 
+    },
     {
-      "name": "唐朝诡事录",
+      "name": "康康音乐二",
       "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/02.png",
-      "url": "",
-      "type": "search",     
-       "desc": "",
+      "url": "https://music.y444.cn",
+      "type": "web",     
+      "desc": "",
       "show": true
-    },   
+    },
     {
-      "name": "康康音乐站",
+      "name": "康康音乐三",
       "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/03.png",
       "url": "https://tools.liumingye.cn/music/",
       "type": "web",     
@@ -25,56 +25,32 @@
       "show": true
     },
     {
-      "name": "康康影视汇",
+      "name": "康康影视",
       "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/04.png",
       "url": "https://video.isyour.love/",
       "type": "web",     
        "desc": "",
       "show": true
-    },    
+    },
     {
-      "name": "随机小姐姐",
+      "name": "看看美女一",
       "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/05.png",
+      "url": "https://marciehk.com/douyin/",
+      "type": "web",     
+       "desc": "",
+      "show": true
+    },
+    {
+      "name": "看看美女二",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/06.png",
       "url": "http://mn6.bt8.top/",
       "type": "web",     
        "desc": "",
       "show": true
     },
     {
-      "name": "狂飙",
-      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/06.png",
-      "url": "",
-      "type": "search",     
-       "desc": "",
-      "show": true
-    },
-    {
       "name": "武林外传",
       "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/07.png",
-      "url": "",
-      "type": "search",     
-       "desc": "",
-      "show": true
-    },
-    {
-      "name": "庆余年",
-      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/08.png",
-      "url": "",
-      "type": "search",     
-       "desc": "",
-      "show": true
-    },
-    {
-      "name": "雪中悍刀行",
-      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/07.png",
-      "url": "",
-      "type": "search",     
-       "desc": "",
-      "show": true
-    },
-    {
-      "name": "赘婿",
-      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mm/10.png",
       "url": "",
       "type": "search",     
        "desc": "",
