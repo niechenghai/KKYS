@@ -1554,6 +1554,9 @@
  
 {      "key": "csp_jl_直播合集",      "name": "直播┃直播合集",      "type": 3,      "api": "csp_Yj1211",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
 
+{      "key": "直播",      "name": "直播┃精选直播",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/00.txt#抖音美女$https://raw.iqiq.io/QFBJ/KKYS/main/live/mmm.txt#精选直播$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#测试直播$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"    },          
+
+
 
    {"key": "直播转点播","name": "直播┃电视直播","type": 4,"api": "http://120.53.102.254/live?url=http://home.jundie.top:81/ray/tvlive.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
    
@@ -1626,9 +1629,6 @@
 
 
 {      "key": "csp_sp_快看影视",      "name": "推荐┃快看影视",      "type": 3,      "api": "csp_Kuaikan",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
-
-{      "key": "直播",      "name": "电视┃直播",      "type": 3,      "playerType": 1,      "api": "./js/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/00.txt#抖音美女$https://raw.iqiq.io/QFBJ/KKYS/main/live/mmm.txt#精选直播$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#测试直播$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"    }, 
- 
 
 {"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
    ],  
