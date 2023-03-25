@@ -25,10 +25,6 @@
             "name": "🐶千方百纪网盘🐷"
         },
         {
-            "url": "https://raw.iqiq.io/QFBJ/KKYS/main/CS",
-            "name": "🐼千方百纪测试🐨"
-        },        
-        {
             "url": "https://raw.iqiq.io/QFBJ/ZY/main/DD",
             "name": "🐭千方百纪备用"
         },
@@ -200,6 +196,11 @@
 
 
 "vip": [
+    {
+            "url": "https://raw.iqiq.io/QFBJ/KKYS/main/CS",
+            "name": "🐼千方百纪测试🐨"
+        },        
+        
     {
 "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
 "name": "🔞月光宝盒PRO"
