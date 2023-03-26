@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "https://yydsys.top/duo",
-            "name": "🐉多多路线"
+            "name": "🐉多多线路"
         },
         {
             "url": "https://yydsys.top/duo/x.json",
@@ -142,7 +142,7 @@
         },
         {
             "url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-            "name": "🐉甜蜜线路"
+            "name": "🐉甜蜜线路主"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
@@ -167,6 +167,35 @@
         {
             "url": "https://tv.5ye.cc/",
             "name": "🐉二哈线路"
+        },
+         {
+            "url": "https://www.agit.ai/liucn/box/raw/branch/main/m.json",
+            "name": "🐉老刘备新"
+        },
+        {
+            "url": "https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "🐉胖丫线路"
+        },{
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🐉高山流云"
+        },
+        {
+            "url": "https://raw.kgithub.com/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "🐉甜蜜线路备"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "🐉dxawi/github️"
+        },
+       
+        {
+            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+            "name": "🐉D大线路"
+        }, 
+      
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🐉神器线路"
         }
     ]
 }
