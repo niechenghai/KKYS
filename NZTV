@@ -1567,15 +1567,15 @@
 {      "key": "csp_XYQHiker_有声小说吧",      "name": "小说┃有声小说",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "./jar/02.jar",  "ext": "./json/有声小说吧.json"    },
 
 
-{"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "./token/01.txt","jar": "./jar/03.jar"},
+{"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://ali.饭太硬.ml/alitoken","jar": "./jar/03.jar"},
 
-{"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/02.jar","ext": "./token/01.txt"},
+{"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
-{"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/02.jar","ext": "./token/01.txt"},
+{"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
-{"key": "盘搜","name": "网盘┃盘搜搜索","type": 3,"api": "csp_PanSou","jar": "./jar/02.jar","ext": "./token/01.txt"},
+{"key": "盘搜","name": "网盘┃盘搜搜索","type": 3,"api": "csp_PanSou","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
-{"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "./token/01.txt"},
+{"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
 {      "key": "csp_sp_酷云七七",      "name": "推荐┃酷云七七",      "type": 3,      "api": "csp_Kunyu77",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
 

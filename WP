@@ -5,15 +5,15 @@
 
   "sites": [    
 
-{"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "./token/01.txt","jar": "./jar/03.jar"},
+{"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://ali.饭太硬.ml/alitoken","jar": "./jar/03.jar"},
 
-{"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/02.jar","ext": "./token/01.txt"},
+{"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
-{"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/02.jar","ext": "./token/01.txt"},
+{"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
-{"key": "盘搜","name": "网盘┃盘搜搜索","type": 3,"api": "csp_PanSou","jar": "./jar/02.jar","ext": "./token/01.txt"},
+{"key": "盘搜","name": "网盘┃盘搜搜索","type": 3,"api": "csp_PanSou","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
-{"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "./token/01.txt"},
+{"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
 {      "key": "Zhaozy",      "name": "网盘┃找资源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "changeable": 0,    "jar": "./jar/02.jar",  "ext": "http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"    }
 
