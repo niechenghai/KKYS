@@ -1,8 +1,7 @@
 { "warningText": "🐼🐼🐼康康影视，私人专用！🐼🐼🐼",   "spider": "./QFBJ.jar",  "lives": [{"group":"redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=./live/01.txt"]}]
 }],
 
-"wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
-//"wallpaper": "./wallpaper/01.png",
+"wallpaper": "./wallpaper/01.png",
 
 "sites": [ 
 {"key":"豆瓣","name":"抖音┃千方百纪","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/豆瓣.js"},

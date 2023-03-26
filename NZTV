@@ -1,7 +1,12 @@
 { "warningText": "🌹🌹🌹康康影视，千方百纪专用🌹🌹🌹",   "spider": "./QFBJ.jar", // "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/01.txt"  ]        }      ]    }  ],
 
-  "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
-  //"wallpaper": "./wallpaper/01.png",
+//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+//"wallpaper": "https://tool.weetai.cn/api",
+//"wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
+//"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+//"wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
+"wallpaper": "https://yydsys.top/bg.php",
+//"wallpaper": "./wallpaper/01.png",
   
       "lives": [{"group": "康康影视","channels": [
 {"name":"抖音搜索","urls":["http://epg.112114.xyz/douyu/8901218"]},

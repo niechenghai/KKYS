@@ -1,7 +1,12 @@
 { "warningText": "🦄🦄🦄康康影视，儿童专用🐑🐑🐑",   "spider": "./QFBJ.jar",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live/00.txt"  ]        }      ]    }  ],
 
-  "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
-  //"wallpaper": "./wallpaper/01.png",
+//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+//"wallpaper": "https://tool.weetai.cn/api",
+"wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
+//"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+//"wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
+//"wallpaper": "https://yydsys.top/bg.php",
+//"wallpaper": "./wallpaper/01.png",
 
   "sites": [ 
   {      "key": "少儿教育",      "name": "学习┃少儿教育",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/少儿教育.json"    }, 
