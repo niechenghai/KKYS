@@ -14,6 +14,11 @@
 
 {"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
+{"key": "csp_sp_Alist","name": "网盘┃动漫大全",      "type": 3,"api": "csp_AList","searchable": 0,      "quickSearch": 0,"filterable": 0,"ext": "./AList/Alist01.json"},
+
+{"key": "csp_sp_Alist","name": "网盘┃网盘合集",      "type": 3,"api": "csp_AList","searchable": 0,      "quickSearch": 0,"filterable": 0,"ext": "./AList/Alist02.json"},
+
+
 {"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
 {"key": "盘搜","name": "网盘┃盘搜搜索","type": 3,"api": "csp_PanSou","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
