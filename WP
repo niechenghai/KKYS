@@ -8,8 +8,9 @@
 //"wallpaper": "https://yydsys.top/bg.php",
 //"wallpaper": "./wallpaper/01.png",
 
-  "sites": [    
-
+  "sites": [  
+{      "key": "csp_sp_T4聚合",      "name": "抖音┃千方百纪",      "type": 4,      "api": "https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=10",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    } ,  
+      
 {"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://ali.饭太硬.ml/alitoken","jar": "./jar/03.jar"},
 
 {"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
@@ -29,7 +30,10 @@
 
 {"key": "UP云搜","name": "网盘┃Up云搜","type": 3,"api": "csp_UpYun","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
-{      "key": "Zhaozy",      "name": "网盘┃找资源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "changeable": 0,    "jar": "./jar/02.jar",  "ext": "http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"    }
+{      "key": "Zhaozy",      "name": "网盘┃找资源",      "type": 3,      "api": "csp_Zhaozy",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "changeable": 0,    "jar": "./jar/02.jar",  "ext": "http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"    },
+
+{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
+
 
 ],  
    
