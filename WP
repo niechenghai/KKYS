@@ -18,6 +18,10 @@
 
 {"key": "csp_sp_Alist02","name": "网盘┃网盘合集",      "type": 3,"api": "csp_AList","searchable": 0,      "quickSearch": 0,"filterable": 0,"ext": "./AList/Alist02.json"},
 
+{"key": "csp_WoGG","name": "网盘┃玩偶哥哥",      "type": 3,      "api": "csp_WoGG",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./ali/token.txt"    },
+
+ {"key": "csp_FanYY","name": "网盘┃剥饭搜索",      "type": 3,      "api": "csp_FanYY",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./ali/token.txt"    },
+
 
 {"key": "易搜","name": "网盘┃易搜搜索","type": 3,"api": "csp_YiSo","jar": "./jar/02.jar","ext": "http://ali.饭太硬.ml/alitoken"},
 
