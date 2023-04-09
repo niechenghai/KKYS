@@ -18,7 +18,7 @@
 {"key":"虎牙直播","name":"直播┃虎牙直播","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/虎牙直播.js"},
 {"key": "直播","name": "直播┃精选直播",      "type": 3,"playerType": 1,"api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js","ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/00.txt#抖音美女$https://raw.iqiq.io/QFBJ/KKYS/main/live/mmm.txt#精选直播$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#测试直播$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php" },
 {"key":"csp_sp_小苹果源","name":"推荐┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_AppTT","name":"推荐┃图图影视","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch": 1,"filterable": 1,"jar": "./jar/02.jar",   "ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_AppTT","name":"推荐┃图图影视","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch": 1,"filterable": 1,"jar": "./jar/07.jar",   "ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_sp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_sp_龙门影视","name":"推荐┃龙门影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"},     
 {"key":"csp_sp_快看影视","name":"推荐┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch": 1,"filterable": 1},
