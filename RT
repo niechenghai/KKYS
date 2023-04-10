@@ -72,7 +72,7 @@
 
 
 {      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "./json/斗鱼.json"    },  
-{      "key": "csp_xp_虎牙直播",      "name": "直播┃虎牙直播",      "type": 3,      "api": "csp_XPathMacFilter",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./json/虎牙.json"    }, 
+{      "key": "csp_XYQHiker_虎牙直播",      "name": "直播┃虎牙直播",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "jar":"./jar/07.jar",   "ext": "./json/虎牙直播.json"    }, 
 
 {      "key": "网易CC",      "name": "直播┃网易直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/网易CC.json"    }, 
  
