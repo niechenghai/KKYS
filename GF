@@ -18,9 +18,9 @@
 {"key":"搜狗","name":"官源 | 搜狗","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/搜狗.js"},
 {"key":"B站影视","name":"影视 | B站","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/B站影视.js"},
 {"key":"哔哩影视","name":"影视 | 哔哩","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩影视.js"},
-{"key":"哔哩直播","name":"直播 | 哔哩","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩直播.js"},
-{"key":"斗鱼直播","name":"直播 | 斗鱼","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/斗鱼直播.js"},
-{"key":"虎牙直播","name":"直播 | 虎牙","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/虎牙直播.js"}
+{      "key": "csp_XYQHiker_虎牙直播",      "name": "直播┃虎牙直播",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "jar":"./jar/07.jar",   "ext": "./json/虎牙直播.json"    }, 
+{      "key": "csp_XYQBiu_斗鱼",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "jar":"./jar/07.jar",    "ext": "./json/斗鱼直播.json" },
+{"key":"哔哩直播","name":"直播 | 哔哩","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩直播.js"}
 
  ],  
    
