@@ -23,13 +23,13 @@
  
  {      "key": "csp_sp_芒果视频",      "name": "官方┃芒果视频",      "type": 3,      "api": "csp_MGTV",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
  
-{"key":"B站影视","name":"官方┃B站视频","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/B站影视.js"},
+{"key":"B站影视","name":"官方┃B站视频","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/B站影视.js"},
 
  
  {"key":"搜狗","name":"官方┃搜狗影视","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/搜狗.js"},
  
 
-{"key":"哔哩影视","name":"官方┃哔哩影视","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩影视.js"},
+{"key":"哔哩影视","name":"官方┃哔哩影视","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩影视.js"},
 
 {      "key": "api_xml_搜糊资源",      "name": "官方┃搜狐视频",      "type": 1,      "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",      "playUrl": "https://jx.xmflv.com/?url=",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "categories": [        "国产剧",        "韩国剧",        "香港剧",        "台湾剧",        "欧美剧",        "动作片",        "科幻片",        "战争片",        "奇幻片",        "喜剧片",        "爱情片",        "恐怖片",        "犯罪片",        "悬疑片",        "惊悚片",        "剧情片",        "冒险片",        "记录片",        "综艺",        "动漫"      ]    },
  
@@ -43,7 +43,10 @@
 {      "key": "csp_XYQBiu_斗鱼",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "jar":"./jar/07.jar",    "ext": "./json/斗鱼直播.json" },
 
   
-//{      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,     "ext": "./json/斗鱼.json"    },  
+//{      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,     "ext": "./json/斗鱼.json"    },
+
+{"key":"哔哩直播","name":"直播 | 哔哩直播","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩直播.js"},
+  
 
 {      "key": "网易CC",      "name": "直播┃网易直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/网易CC.json"    }, 
  
