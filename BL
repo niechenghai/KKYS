@@ -22,10 +22,9 @@
  
  {      "key": "cps_bl_音乐现场",      "name": "合集┃音乐现场",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/音乐现场.json"    },    
  
- {      "key": "cps_bl_女团热舞",      "name": "合集┃女团热舞",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/女团热舞.json"    },
+ {      "key": "cps_bl_女团热舞",      "name": "合集┃女团热舞",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/女团热舞.json"    }, 
  
-     {      "key": "cps_bl_影视解说",      "name": "合集┃影视解说",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/影视解说.json"    },    
-     
+    {      "key": "cps_bl_影视解说",      "name": "合集┃影视解说",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/影视解说.json"    },    
  
  {      "key": "cps_bl_教程合集",      "name": "合集┃软件教程",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/教程合集.json"    },    
  
@@ -52,9 +51,9 @@
             "name" : "合集 ┃ 明星MV",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/明星MV.py"
         },
         
@@ -63,9 +62,9 @@
             "name" : "合集 ┃CCTV ",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/CCTV.py"
         },
         
@@ -74,53 +73,32 @@
             "name" : "合集 ┃ 康康搭配",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/康康搭配.py"
         },
-        
-       // {
-            "key" : "py_康康搭讪",
-            "name" : "合集 ┃ 康康搭讪",
-            "type" : 3,
-            "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/康康搭讪.py"
-        }, 
-        
+                
         {
             "key" : "py_美女热舞",
             "name" : "合集 ┃ 美女热舞",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/美女热舞.py"
         },
         
-       // {
-            "key" : "py_球队球星",
-            "name" : "合集 ┃ 球队球星",
-            "type" : 3,
-            "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/球队球星.py"
-        },
         
         {
             "key" : "py_音乐合集",
             "name" : "合集 ┃ 音乐百汇",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/音乐合集.py"
         },
         
@@ -129,9 +107,9 @@
             "name" : "合集 ┃ 歌手合辑",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/歌手合集.py"
         },
         
@@ -140,9 +118,9 @@
             "name" : "合集 ┃ 中国文化",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/中国文化.py"
         },
         
@@ -151,9 +129,9 @@
             "name" : "合集 ┃ 中国医药",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/中国医药.py"
         }
 

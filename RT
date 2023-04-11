@@ -29,9 +29,9 @@
             "name" : "常识 ┃十二生肖 ",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/十二生肖.py"
         },
         
@@ -40,9 +40,9 @@
             "name" : "常识 ┃十二星座 ",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/十二星座.py"
         },
  
@@ -60,9 +60,9 @@
             "name" : "历史 ┃中国朝代 ",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/中国朝代.py"
         },
 
@@ -71,7 +71,7 @@
 {"key":"哔哩直播","name":"直播┃哔哩直播","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩直播.js"},
 
 
-{      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "./json/斗鱼.json"    },  
+{      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "ext": "./json/斗鱼.json"    },  
 {      "key": "csp_XYQHiker_虎牙直播",      "name": "直播┃虎牙直播",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "jar":"./jar/07.jar",   "ext": "./json/虎牙直播.json"    }, 
 
 {      "key": "网易CC",      "name": "直播┃网易直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/网易CC.json"    }, 
@@ -84,9 +84,9 @@
             "name" : "合集 ┃奥特曼 ",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/奥特曼.py"
         },
 
@@ -96,22 +96,13 @@
             "name" : "动画 ┃喜羊羊 ",
             "type" : 3,
             "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
+            "searchable" : 0,
+            "quickSearch" : 0,
+            "filterable" : 0,
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/喜羊羊与灰太狼.py"
         },
         
-        {
-            "key" : "py_熊出没",
-            "name" : "动画 ┃熊出没 ",
-            "type" : 3,
-            "api" : "py_yanchh",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/熊出没.py"
-        },
+        {      "key": "cps_bl_影视解说",      "name": "合集┃影视解说",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/影视解说.json"    }, 
         
 
 //{      "key": "直播1",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/小猪佩奇.txt"    },    
