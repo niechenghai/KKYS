@@ -22,7 +22,10 @@
  
  {      "key": "cps_bl_音乐现场",      "name": "合集┃音乐现场",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/音乐现场.json"    },    
  
- {      "key": "cps_bl_音乐现场",      "name": "合集┃女团热舞",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/女团热舞.json"    },    
+ {      "key": "cps_bl_女团热舞",      "name": "合集┃女团热舞",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/女团热舞.json"    },
+ 
+     {      "key": "cps_bl_影视解说",      "name": "合集┃影视解说",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/影视解说.json"    },    
+     
  
  {      "key": "cps_bl_教程合集",      "name": "合集┃软件教程",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/Bili/教程合集.json"    },    
  
@@ -77,7 +80,7 @@
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/康康搭配.py"
         },
         
-        {
+       // {
             "key" : "py_康康搭讪",
             "name" : "合集 ┃ 康康搭讪",
             "type" : 3,
@@ -99,7 +102,7 @@
             "ext" : "https://raw.iqiq.io/QFBJ/KKYS/main/py/美女热舞.py"
         },
         
-        {
+       // {
             "key" : "py_球队球星",
             "name" : "合集 ┃ 球队球星",
             "type" : 3,
