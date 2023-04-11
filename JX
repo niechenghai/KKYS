@@ -18,9 +18,14 @@
  
   {      "key": "csp_sp_酷云七七",      "name": "精选┃酷云七七",      "type": 3,      "api": "csp_Kunyu77",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
 
-{      "key": "csp_sp_龙门影视",      "name": "精选┃龙门影视",      "type": 3,      "api": "csp_AppYsV2",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"    },    
+//{      "key": "csp_sp_龙门影视",      "name": "精选┃龙门影视",      "type": 3,      "api": "csp_AppYsV2",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"    }, 
 
-{      "key": "csp_AppTT",      "name": "精选┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/07.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },
+{      "key": "csp_Btwtoo",      "name": "精选┃两个BT",      "type": 3,      "api": "csp_Bttwoo",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/08.jar" },
+
+{      "key": "csp_YQKAPP",      "name": "精选┃一起看TV",      "type": 3,      "api": "csp_YQKAPP",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "./jar/08.jar",  "ext": "https://api-tx.11ty.top"    },
+
+
+//{      "key": "csp_AppTT",      "name": "精选┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/07.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },
 
 {      "key": "mtv_百影视频",      "name": "精选┃百影视频",      "type": 3,      "api": "csp_MianHua",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/00.jar",      "ext": "http://47.104.99.175"    }, 
 
