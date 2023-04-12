@@ -1,4 +1,4 @@
-康康影视推荐,#genre#
+千方百纪推荐,#genre#
 抖音搜索,http://epg.112114.xyz/douyu/8901218
 千方百纪,http://epg.112114.xyz/douyu/8759139
 中央卫视频道,#genre#
