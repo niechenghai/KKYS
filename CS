@@ -3,7 +3,10 @@
 
 "wallpaper": "./wallpaper/mm/1888.png",
 
-"sites": [ 
+"sites": [
+
+{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1}，
+ 
 {"key":"成人┃91麻豆","name":"成人┃91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"成人┃丝袜资源","name":"成人┃丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -18,7 +21,6 @@
 {"key":"成人┃色屌丝资源","name":"成人┃色屌丝资源","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"成人┃小姐姐资源","name":"成人┃小姐姐资源","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"成人┃52AVAV","name":"成人┃52AVAV","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml","searchable":1,"quickSearch":1},
-{"key":"成人┃水帘洞资源","name":"成人┃水帘洞资源","type":1,"api":"https://www.sldcaiji.com/home/cjapi/s6da/mc10/vod/json","searchable":1,"quickSearch":1},
 {"key":"成人┃我要啪啪","name":"成人┃我要啪啪","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"成人┃AV集中淫","name":"成人┃AV集中淫","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"成人┃夜夜撸资源","name":"成人┃夜夜撸资源","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"quickSearch":1},
@@ -27,8 +29,6 @@
 {"key":"成人┃鲍鱼AV","name":"成人┃鲍鱼AV","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"成人┃精工厂资源","name":"成人┃精工厂资源","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"成人┃点点娱乐","name":"成人┃点点娱乐","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":1,"quickSearch":1},
-{"key":"成人┃淫人妻资源","name":"成人┃淫人妻资源","type":1,"api":"http://www.yrqcaiji.com/home/cjapi/s6c7/mc10/vod/json","searchable":1,"quickSearch":1},
-{"key":"成人┃小处女资源","name":"成人┃小处女资源","type":1,"api":"http://xcncaiji.com/home/cjapi/s6bb/mc10/vod/json","searchable":1,"quickSearch":1},
 {"key":"成人┃大MM资源","name":"成人┃大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"成人┃黄瓜TV资源","name":"成人┃黄瓜TV资源","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"成人┃快播盒子资源","name":"成人┃快播盒子资源","type":0,"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml","searchable":1,"quickSearch":1},
@@ -63,7 +63,6 @@
 {"key":"成人┃色色资源","name":"成人┃色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"成人┃玖玖资源","name":"成人┃玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"成人┃狼少年","name":"成人┃狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
-{"key":"成人┃佳丽资源","name":"成人┃佳丽资源","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"成人┃番号资源","name":"成人┃番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"成人┃鲨鱼资源","name":"成人┃鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"成人┃速度资源","name":"成人┃速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1},
@@ -179,10 +178,8 @@
 
 {      "key": "*玖玖资源",      "name": "成人┃玖玖资源",      "type": 0,      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",      "searchable": 1,      "quickSearch": 1    },    
 
-{      "key": "*狼少年",      "name": "成人┃狼少年",      "type": 0,      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",      "searchable": 1,      "quickSearch": 1    },    
-
-{      "key": "*佳丽资源",      "name": "成人┃佳丽资源",      "type": 1,      "api": "http://www.jializyzapi.com/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1    },    
-
+{      "key": "*狼少年",      "name": "成人┃狼少年",      "type": 0,      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",      "searchable": 1,      "quickSearch": 1    },  
+  
 {      "key": "*番号资源",      "name": "成人┃番号资源",      "type": 1,      "api": "http://fhapi9.com/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1    },    
 
 {      "key": "*速度资源",      "name": "成人┃速度资源",      "type": 0,      "api": "http://www.ggmmzy.com:9999/inc/xml",      "searchable": 1,      "quickSearch": 1    },    
