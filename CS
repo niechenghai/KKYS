@@ -5,9 +5,10 @@
 
 "sites": [
 
-{"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1}，
+{"key":"1","name":"私用┃严禁分享","type":0,"api":""},
+
  
-{"key":"成人┃91麻豆","name":"成人┃91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"成人去┃91麻豆","name":"成人┃91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"成人┃丝袜资源","name":"成人┃丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"成人┃秀色资源","name":"成人┃秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -188,7 +189,7 @@
 
 {      "key": "csp_xBPQ_banban",      "name": "成人┃香蕉影音",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/banban.json"    },  
 
-{      "key": "csp_xBPQ_黄瓜",      "name": "成人┃黄瓜影视",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/黄瓜.json"    }   
+{      "key": "csp_xBPQ_黄瓜",      "name": "成人┃黄瓜影视",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/黄瓜.json"    }
 
   ],  
    
