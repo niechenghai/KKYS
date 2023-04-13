@@ -70,33 +70,33 @@
 
 {      "key": "AList",      "name": "成人┃AList",      "type": 3,      "api": "csp_AList",      "searchable": 1,      "filterable": 1,      "ext": "成人┃9T$https://drive.9t.ee#成人┃木偶$https://www.kugutsu.ml",      "jar": "./jar/187.jar"    }, 
   
-{      "key": "csp_xBPQ_香蕉AV解说",      "name": "成人┃香蕉解说",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/香蕉解说.json"    },
+{      "key": "csp_xBPQ_香蕉AV解说",      "name": "成人┃香蕉解说",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/香蕉解说.json"    },
   
-{      "key": "csp_xBPQ_香蕉资源",      "name": "成人┃香蕉资源",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/香蕉资源.json"    },     
+{      "key": "csp_xBPQ_香蕉资源",      "name": "成人┃香蕉资源",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/香蕉资源.json"    },     
   
-{      "key": "csp_xBPQ_香蕉国产",      "name": "成人┃香蕉国产",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/香蕉国产.json"    },    
+{      "key": "csp_xBPQ_香蕉国产",      "name": "成人┃香蕉国产",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/香蕉国产.json"    },    
   
-{      "key": "csp_xBPQ_香蕉久久热",      "name": "成人┃香蕉久久热",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/香蕉久久热.json"    },    
+{      "key": "csp_xBPQ_香蕉久久热",      "name": "成人┃香蕉久久热",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/香蕉久久热.json"    },    
   
-{      "key": "csp_xBPQ_香蕉废柴",      "name": "成人┃香蕉废柴",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/香蕉废柴.json"    },    
+{      "key": "csp_xBPQ_香蕉废柴",      "name": "成人┃香蕉废柴",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/香蕉废柴.json"    },    
   
-{      "key": "csp_xBPQ_香蕉直播",      "name": "成人┃香蕉直播",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/香蕉直播.json"    },    
+{      "key": "csp_xBPQ_香蕉直播",      "name": "成人┃香蕉直播",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/香蕉直播.json"    },    
   
-{      "key": "csp_xBPQ_香蕉搜索",      "name": "成人┃香蕉搜索",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/香蕉搜索.json"    },    
+{      "key": "csp_xBPQ_香蕉搜索",      "name": "成人┃香蕉搜索",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/香蕉搜索.json"    },    
   
-{      "key": "csp_xBPQ_麻豆映画",      "name": "成人┃麻豆映画",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/麻豆映画.json"    },    
+{      "key": "csp_xBPQ_麻豆映画",      "name": "成人┃麻豆映画",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/麻豆映画.json"    },    
   
-{      "key": "csp_xBPQ_香蕉",      "name": "成人┃香蕉",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/香蕉.json"    },    
+{      "key": "csp_xBPQ_香蕉",      "name": "成人┃香蕉",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/香蕉.json"    },    
 
-{      "key": "csp_xBPQ_性欲轮回",      "name": "成人┃性欲轮回",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/性欲轮回.json"    },    
+{      "key": "csp_xBPQ_性欲轮回",      "name": "成人┃性欲轮回",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/性欲轮回.json"    },    
   
-{      "key": "csp_xBPQ_性欲轮回[分类]",      "name": "成人┃性欲分类",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/性欲轮回[分类].json"    },    
+{      "key": "csp_xBPQ_性欲轮回[分类]",      "name": "成人┃性欲分类",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/性欲轮回[分类].json"    },    
   
-{      "key": "csp_xBPQ_精东影业1",      "name": "成人┃精东影业1",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/精东影业1.json"    },    
+{      "key": "csp_xBPQ_精东影业1",      "name": "成人┃精东影业1",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/精东影业1.json"    },    
   
-{      "key": "csp_xBPQ_精东影业2",      "name": "成人┃精东影业2",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/精东影业2.json"    },    
+{      "key": "csp_xBPQ_精东影业2",      "name": "成人┃精东影业2",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/精东影业2.json"    },    
   
-{      "key": "csp_XBiu_国产传媒",      "name": "成人┃国产传媒",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/国产传媒.json"    },  
+{      "key": "csp_XBiu_国产传媒",      "name": "成人┃国产传媒",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/国产传媒.json"    },  
     
     
 {      "key": "*色南国资源",      "name": "成人┃色南国资源",      "type": 1,      "api": "https://api.sexnguon.com/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1    }, 
@@ -106,7 +106,7 @@
 
 {      "key": "*AIvin",      "name": "成人┃AIvin",      "type": 0,      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"    },    
 
-{      "key": "csp_biubiu_GAOAA",      "name": "成人┃GAOAA",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": ".json//XYQ/GAOAA.json"    },    
+{      "key": "csp_biubiu_GAOAA",      "name": "成人┃GAOAA",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "..json/XYQ/GAOAA.json"    },    
 
 {      "key": "(18+)SS资源",      "name": "成人┃SS资源",      "type": 0,      "api": "http://secj8.com/inc/sapi.php?ac=videolist",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    },    
 
@@ -189,9 +189,9 @@
 
 {      "key": "*KK写真资源",      "name": "成人┃KK写真资源",      "type": 1,      "api": "https://kkzy.me/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1    },
 
-{      "key": "csp_xBPQ_banban",      "name": "成人┃香蕉影音",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": ".json//XYQ/banban.json"    },  
+{      "key": "csp_xBPQ_banban",      "name": "成人┃香蕉影音",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "..json/XYQ/banban.json"    },  
 
-{      "key": "csp_xBPQ_黄瓜",      "name": "成人┃黄瓜影视",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": ".json//XYQ/黄瓜.json"    }   
+{      "key": "csp_xBPQ_黄瓜",      "name": "成人┃黄瓜影视",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "..json/XYQ/黄瓜.json"    }   
 
   ],  
    
