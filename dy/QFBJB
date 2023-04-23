@@ -2,9 +2,9 @@
 
 {"key":"drpy_js_豆瓣","name":"抖音┃千方百纪","type":3,"api":"http://dm.abuhu.com/box/app/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://dm.abuhu.com/box/app/js/drpy.js"},
 
-{"key":"csp_sp_龙门影视","name":"Emo┃龙门影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.looo.top/lm_api.php/v1.vod"},
+{"key":"csp_sp_龙门影视","name":"推荐┃龙门影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.looo.top/lm_api.php/v1.vod"},
 
-{"key":"csp_sp_酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_sp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key":"csp_sp_小苹果源","name":"推荐┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
