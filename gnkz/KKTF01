@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "name": "康康音乐搜索",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/mmgq/34.jpg",
+      "url": "https://music.liuzhijin.cn/",
+      "type": "web",     
+      "desc": "",
+      "show": true
+    },
+     
+    {
+      "name": "爱情公寓",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/KKYS/爱情公寓.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    },
+       
+    
+    
+    {
+      "name": "狂飙",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/KKYS/狂飙.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    },    
+    
+    
+    
+    {
+      "name": "武林外传",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/KKYS/武林外传.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    },            
+   
+    {
+      "name": "唐朝诡事录",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/KKYS/唐朝诡事录.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    },
+       
+    {
+      "name": "庆余年",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/KKYS/庆余年.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    },
+    
+    {
+      "name": "雪中悍刀行",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/KKYS/雪中悍刀行.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    },
+    
+    {
+      "name": "赘婿",
+      "pic": "https://raw.iqiq.io/QFBJ/KKYS/main/wallpaper/KKYS/赘婿.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    }
+  ]
+}
