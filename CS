@@ -1,4 +1,4 @@
-{ "warningText": "🐼🐼🐼康康影视，成人专用！🐼🐼🐼",   "spider": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/186.jar",  "lives": [{"group":"redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=./live/188.txt"]}]
+{ "warningText": "🔞🔞🔞康康影视，成人专用！🈲🈲🈲",   "spider": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/186.jar",  "lives": [{"group":"redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=./live/188.txt"]}]
 }],
 
 "wallpaper": "./wallpaper/mm/1888.png",
@@ -144,7 +144,7 @@
             "api": "https://sewozyapi.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "categories": [
                 "制服黑丝",
