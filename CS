@@ -1,4 +1,4 @@
-{ "warningText": "🔞🔞🔞康康影视，成人专用！🈲🈲🈲",   "spider": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/186.jar",  "lives": [{"group":"redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=./live/188.txt"]}]
+{ "warningText": "🔞🔞🔞康康影视，成人专用！🈲🈲🈲",   "spider": "https://raw.kgithub.com/QFBJ/KKYS/main/jar/186.jar",  "lives": [{"group":"redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=./live/188.txt"]}]
 }],
 
 "wallpaper": "./wallpaper/mm/1888.png",
@@ -7,47 +7,47 @@
 
 {"key":"1","name":"私用┃严禁分享","type":0,"api":""},
 
-{      "key": "AList",      "name": "成人┃AList",      "type": 3,      "api": "csp_AList",      "searchable": 1,      "filterable": 1,      "ext": "成人┃9T$https://drive.9t.ee#成人┃木偶$https://www.kugutsu.ml",      "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/187.jar"    }, 
+{      "key": "AList",      "name": "成人┃AList",      "type": 3,      "api": "csp_AList",      "searchable": 1,      "filterable": 1,      "ext": "成人┃9T$https://drive.9t.ee#成人┃木偶$https://www.kugutsu.ml",      "jar": "https://raw.kgithub.com/QFBJ/KKYS/main/jar/187.jar"    }, 
   
-{      "key": "csp_xBPQ_香蕉AV解说",      "name": "成人┃香蕉解说",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/香蕉解说.json"    },
+{      "key": "csp_xBPQ_香蕉AV解说",      "name": "成人┃香蕉解说",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/香蕉解说.json"    },
   
-{      "key": "csp_xBPQ_香蕉资源",      "name": "成人┃香蕉资源",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/香蕉资源.json"    },     
+{      "key": "csp_xBPQ_香蕉资源",      "name": "成人┃香蕉资源",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/香蕉资源.json"    },     
   
-{      "key": "csp_xBPQ_香蕉国产",      "name": "成人┃香蕉国产",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/香蕉国产.json"    },    
+{      "key": "csp_xBPQ_香蕉国产",      "name": "成人┃香蕉国产",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/香蕉国产.json"    },    
   
-{      "key": "csp_xBPQ_香蕉久久热",      "name": "成人┃香蕉久久热",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/香蕉久久热.json"    },    
+{      "key": "csp_xBPQ_香蕉久久热",      "name": "成人┃香蕉久久热",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/香蕉久久热.json"    },    
   
-{      "key": "csp_xBPQ_香蕉废柴",      "name": "成人┃香蕉废柴",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/香蕉废柴.json"    },    
+{      "key": "csp_xBPQ_香蕉废柴",      "name": "成人┃香蕉废柴",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/香蕉废柴.json"    },    
   
-{      "key": "csp_xBPQ_香蕉直播",      "name": "成人┃香蕉直播",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/香蕉直播.json"    },    
+{      "key": "csp_xBPQ_香蕉直播",      "name": "成人┃香蕉直播",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/香蕉直播.json"    },    
   
-{      "key": "csp_xBPQ_香蕉搜索",      "name": "成人┃香蕉搜索",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/香蕉搜索.json"    },    
+{      "key": "csp_xBPQ_香蕉搜索",      "name": "成人┃香蕉搜索",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/香蕉搜索.json"    },    
   
-{      "key": "csp_xBPQ_麻豆映画",      "name": "成人┃麻豆映画",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/麻豆映画.json"    },    
+{      "key": "csp_xBPQ_麻豆映画",      "name": "成人┃麻豆映画",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/麻豆映画.json"    },    
   
-{      "key": "csp_xBPQ_香蕉",      "name": "成人┃香蕉",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/香蕉.json"    },    
+{      "key": "csp_xBPQ_香蕉",      "name": "成人┃香蕉",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/香蕉.json"    },    
 
-{      "key": "csp_xBPQ_性欲轮回",      "name": "成人┃性欲轮回",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/性欲轮回.json"    },    
+{      "key": "csp_xBPQ_性欲轮回",      "name": "成人┃性欲轮回",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/性欲轮回.json"    },    
   
-{      "key": "csp_xBPQ_性欲轮回[分类]",      "name": "成人┃性欲分类",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/性欲轮回[分类].json"    },    
+{      "key": "csp_xBPQ_性欲轮回[分类]",      "name": "成人┃性欲分类",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/性欲轮回[分类].json"    },    
   
-{      "key": "csp_xBPQ_精东影业1",      "name": "成人┃精东影业1",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/精东影业1.json"    },    
+{      "key": "csp_xBPQ_精东影业1",      "name": "成人┃精东影业1",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/精东影业1.json"    },    
   
-{      "key": "csp_xBPQ_精东影业2",      "name": "成人┃精东影业2",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/精东影业2.json"    },    
+{      "key": "csp_xBPQ_精东影业2",      "name": "成人┃精东影业2",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/精东影业2.json"    },    
   
-{      "key": "csp_XBiu_国产传媒",      "name": "成人┃国产传媒",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/国产传媒.json"    },
+{      "key": "csp_XBiu_国产传媒",      "name": "成人┃国产传媒",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/国产传媒.json"    },
 
-{"key":"csp_xBPQ_左临右射","name":"成人┃左临右射","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/左临右射.json","jar":"https://raw.iqiq.io/QFBJ/KKYS/main/jar/189.jar"},
+{"key":"csp_xBPQ_左临右射","name":"成人┃左临右射","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/左临右射.json","jar":"https://raw.kgithub.com/QFBJ/KKYS/main/jar/189.jar"},
     
-{"key":"csp_xBPQ_Jable","name":"成人┃Jable〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/Jable.json","jar":"https://raw.iqiq.io/QFBJ/KKYS/main/jar/189.jar"},
+{"key":"csp_xBPQ_Jable","name":"成人┃Jable〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/Jable.json","jar":"https://raw.kgithub.com/QFBJ/KKYS/main/jar/189.jar"},
 
-{"key":"csp_xBPQ_玩偶姐姐","name":"成人┃玩偶姐姐〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/玩偶姐姐.json","jar":"https://raw.iqiq.io/QFBJ/KKYS/main/jar/189.jar"},
+{"key":"csp_xBPQ_玩偶姐姐","name":"成人┃玩偶姐姐〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/玩偶姐姐.json","jar":"https://raw.kgithub.com/QFBJ/KKYS/main/jar/189.jar"},
 
-{"key":"csp_xBPQ_朱古力","name":"成人┃朱古力〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/朱古力.json","jar":"https://raw.iqiq.io/QFBJ/KKYS/main/jar/189.jar"},
+{"key":"csp_xBPQ_朱古力","name":"成人┃朱古力〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/朱古力.json","jar":"https://raw.kgithub.com/QFBJ/KKYS/main/jar/189.jar"},
 
-{"key":"csp_xBPQ_NOWAV","name":"成人┃NOWAV〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/NOWAV.json","jar":"https://raw.iqiq.io/QFBJ/KKYS/main/jar/189.jar"},
+{"key":"csp_xBPQ_NOWAV","name":"成人┃NOWAV〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/NOWAV.json","jar":"https://raw.kgithub.com/QFBJ/KKYS/main/jar/189.jar"},
 
-{"key":"csp_xBPQ_女优","name":"成人┃女优分类〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/女优.json","jar":"https://raw.iqiq.io/QFBJ/KKYS/main/jar/189.jar"},    
+{"key":"csp_xBPQ_女优","name":"成人┃女优分类〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/女优.json","jar":"https://raw.kgithub.com/QFBJ/KKYS/main/jar/189.jar"},    
   
 
 {
@@ -269,7 +269,7 @@
 
 {      "key": "*AIvin",      "name": "成人┃AIvin",      "type": 0,      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"    },    
 
-{      "key": "csp_biubiu_GAOAA",      "name": "成人┃GAOAA",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/GAOAA.json"    },    
+{      "key": "csp_biubiu_GAOAA",      "name": "成人┃GAOAA",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/GAOAA.json"    },    
 
 {      "key": "(18+)SS资源",      "name": "成人┃SS资源",      "type": 0,      "api": "http://secj8.com/inc/sapi.php?ac=videolist",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    },    
 
@@ -277,17 +277,17 @@
 
 {      "key": "(18+)秀色资源",      "name": "成人┃秀色资源",      "type": 0,      "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",      "playUrl": "https://player.leyuzy.net/?url=",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    },    
 
-{      "key": "精工厂",      "name": "成人┃精工厂",      "type": 0,      "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/188.jar"    },    
+{      "key": "精工厂",      "name": "成人┃精工厂",      "type": 0,      "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.kgithub.com/QFBJ/KKYS/main/jar/188.jar"    },    
 
-{      "key": "美少女",      "name": "成人┃美少女",      "type": 0,      "api": "https://www.msnii.com/api/xml.php",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/188.jar"    },    
+{      "key": "美少女",      "name": "成人┃美少女",      "type": 0,      "api": "https://www.msnii.com/api/xml.php",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "jar": "https://raw.kgithub.com/QFBJ/KKYS/main/jar/188.jar"    },    
 
-{      "key": "哥哥妹妹",      "name": "成人┃有哥妹",      "type": 0,      "api": "http://www.ggmmzy.com:9999/inc/xml",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/188.jar"    },    
-
-
-{      "key": "*CK资源",      "name": "成人┃纯在线",      "type": 1,      "api": "http://www.feifei67.com/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/188.jar"    },    
+{      "key": "哥哥妹妹",      "name": "成人┃有哥妹",      "type": 0,      "api": "http://www.ggmmzy.com:9999/inc/xml",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.kgithub.com/QFBJ/KKYS/main/jar/188.jar"    },    
 
 
-{      "key": "*博天堂",      "name": "成人┃博天堂",      "type": 0,      "api": "http://bttcj.com/inc/sapi.php",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/188.jar"    },    
+{      "key": "*CK资源",      "name": "成人┃纯在线",      "type": 1,      "api": "http://www.feifei67.com/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.kgithub.com/QFBJ/KKYS/main/jar/188.jar"    },    
+
+
+{      "key": "*博天堂",      "name": "成人┃博天堂",      "type": 0,      "api": "http://bttcj.com/inc/sapi.php",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "https://raw.kgithub.com/QFBJ/KKYS/main/jar/188.jar"    },    
 
 {      "key": "*色猫资源",      "name": "成人┃色猫资源",      "type": 1,      "api": "https://api.maozyapi.com/inc/apijson_vod.php",      "searchable": 1,      "quickSearch": 1    },    
 
@@ -350,9 +350,9 @@
 
 {      "key": "*KK写真资源",      "name": "成人┃KK写真资源",      "type": 1,      "api": "https://kkzy.me/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1    },
 
-{      "key": "csp_xBPQ_banban",      "name": "成人┃香蕉影音",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/banban.json"    },  
+{      "key": "csp_xBPQ_banban",      "name": "成人┃香蕉影音",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/banban.json"    },  
 
-{      "key": "csp_xBPQ_黄瓜",      "name": "成人┃黄瓜影视",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/XYQ/黄瓜.json"    }
+{      "key": "csp_xBPQ_黄瓜",      "name": "成人┃黄瓜影视",      "type": 3,      "api": "csp_xBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/XYQ/黄瓜.json"    }
 
   ],  
    
