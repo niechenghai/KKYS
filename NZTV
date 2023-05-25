@@ -1550,19 +1550,19 @@
      
 //{"key": "csp_sp_奇艺视频",      "name": "官方┃奇艺视频",      "type": 3,      "api": "csp_IQIYI",      "searchable": 0,      "quickSearch": 0,      "filterable": 1    }, 
 
-{"key":"爱奇艺","name":"官方┃爱奇艺","type":3,"api":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/js/爱奇艺.js"},
+{"key":"爱奇艺","name":"官方┃爱奇艺","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/爱奇艺.js"},
 
-{"key":"优酷","name":"官方┃优酷视频","type":3,"api":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/js/优酷.js"},
+{"key":"优酷","name":"官方┃优酷视频","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/优酷.js"},
  
  {      "key": "csp_sp_芒果视频",      "name": "官方┃芒果视频",      "type": 3,      "api": "csp_MGTV",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
  
-{"key":"B站影视","name":"官方┃B站视频","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/js/B站影视.js"},
+{"key":"B站影视","name":"官方┃B站视频","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/B站影视.js"},
 
  
- {"key":"搜狗","name":"官方┃搜狗影视","type":3,"api":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/js/搜狗.js"},
+ {"key":"搜狗","name":"官方┃搜狗影视","type":3,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/搜狗.js"},
  
 
-{"key":"哔哩影视","name":"官方┃哔哩影视","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/js/哔哩影视.js"},
+{"key":"哔哩影视","name":"官方┃哔哩影视","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩影视.js"},
 
 {      "key": "api_xml_搜糊资源",      "name": "官方┃搜狐视频",      "type": 1,      "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",      "playUrl": "https://jx.xmflv.com/?url=",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "categories": [        "国产剧",        "韩国剧",        "香港剧",        "台湾剧",        "欧美剧",        "动作片",        "科幻片",        "战争片",        "奇幻片",        "喜剧片",        "爱情片",        "恐怖片",        "犯罪片",        "悬疑片",        "惊悚片",        "剧情片",        "冒险片",        "记录片",        "综艺",        "动漫"      ]    },
  
@@ -1578,14 +1578,14 @@
   
 //{      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,     "ext": "./json/斗鱼.json"    },
 
-{"key":"哔哩直播","name":"直播 | 哔哩直播","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.kgithub.com/QFBJ/KKYS/main/JS/js/哔哩直播.js"},
+{"key":"哔哩直播","name":"直播 | 哔哩直播","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/lib/drpy2.min.js","ext":"https://raw.iqiq.io/QFBJ/KKYS/main/JS/js/哔哩直播.js"},
   
 
 {      "key": "网易CC",      "name": "直播┃网易直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/网易CC.json"    }, 
  
 {      "key": "csp_jl_直播合集",      "name": "直播┃直播合集",      "type": 3,      "api": "csp_Yj1211",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
 
-{      "key": "直播",      "name": "直播┃精选直播",      "type": 3,      "playerType": 1,      "api": "https://raw.kgithub.com/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.kgithub.com/QFBJ/KKYS/main/live/00.txt#抖音美女$https://raw.kgithub.com/QFBJ/KKYS/main/live/mmm.txt#精选直播$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#测试直播$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"    },          
+{      "key": "直播",      "name": "直播┃精选直播",      "type": 3,      "playerType": 1,      "api": "https://raw.iqiq.io/QFBJ/KKYS/main/JS/直播转点播.js",      "ext": "康康影视$https://raw.iqiq.io/QFBJ/KKYS/main/live/00.txt#抖音美女$https://raw.iqiq.io/QFBJ/KKYS/main/live/mmm.txt#精选直播$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#测试直播$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"    },          
 
 
 
@@ -1627,13 +1627,13 @@
 //{      "key": "csp_AppTT",      "name": "推荐┃图图影视",      "type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/07.jar",   "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    }, 
 
 
-{      "key": "csp_XBPQ_TVB云播",      "name": "推荐┃TVB云播",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://raw.kgithub.com/QFBJ/KKYS/main/jar/05.jar",   "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/tvb云播.json"    },   
+{      "key": "csp_XBPQ_TVB云播",      "name": "推荐┃TVB云播",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://raw.iqiq.io/QFBJ/KKYS/main/jar/05.jar",   "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/tvb云播.json"    },   
 
  {      "key": "csp_BuLei",      "name": "推荐┃布雷影视",      "type": 3,      "api": "csp_BuLei",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,     "jar": "./jar/07.jar", "ext": "https://www.bulei.cc"    },    
   
   {      "key": "csp_Nkdy",      "name": "推荐┃耐看影视",      "type": 3,      "api": "csp_Nkdy",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "./jar/07.jar"    },    
   
-  {      "key": "csp_Hlsp",      "name": "推荐┃黑料影视",      "type": 3,      "api": "csp_Hlsp",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/黑料.json","jar": "./jar/07.jar"    },
+  {      "key": "csp_Hlsp",      "name": "推荐┃黑料影视",      "type": 3,      "api": "csp_Hlsp",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/黑料.json","jar": "./jar/07.jar"    },
  
  {      "key": "csp_AppMr",      "name": "推荐┃明明影视",      "type": 3,      "api": "csp_AppMr",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "./jar/07.jar"    },   
  
@@ -1660,7 +1660,7 @@
  {      "key": "csp_Lgyy",      "name": "推荐┃蓝光影视",      "type": 3,      "api": "csp_Lgyy",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/07.jar",    "ext": "https://www.lgyy.vip"    },    
  
  
- {      "key": "csp_Nmys",      "name": "推荐┃农民影视",      "type": 3,      "api": "csp_Nmys",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/07.jar",    "ext": "https://raw.kgithub.com/QFBJ/KKYS/main/json/农民.json"    },    
+ {      "key": "csp_Nmys",      "name": "推荐┃农民影视",      "type": 3,      "api": "csp_Nmys",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/07.jar",    "ext": "https://raw.iqiq.io/QFBJ/KKYS/main/json/农民.json"    },    
  
  {      "key": "csp_Ysgc",      "name": "推荐┃工厂影视",      "type": 3,      "api": "csp_Ysgc",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "jar": "./jar/07.jar",    "ext": "https://www.ysgc.vip"    } ,      
 
