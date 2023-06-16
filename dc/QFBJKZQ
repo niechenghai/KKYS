@@ -9,11 +9,11 @@
 
 {"sourceName":"康康影视成人仓库","sourceUrl":"https://raw.iqiq.io/QFBJ/KKYS/main/dc/CR"},
 
-{"sourceName":"康康影视本地仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/本地仓库.json"},
+{"sourceName":"康康影视本地仓库","sourceUrl":"clan://localhost/康康影视本地仓/千方百纪.json"},
 
-{"sourceName":"千方影视本地仓库","sourceUrl":"http://127.0.0.1:9978/file/tvboxqq/本地仓.txt"},
+{"sourceName":"千方影视本地仓库","sourceUrl":"clan://localhost/tvboxqq/本地仓.txt"},
 
-{"sourceName":"百纪影视本地仓库","sourceUrl":"http://127.0.0.1:9978/file/tvboxog/本地仓.json"}
+{"sourceName":"百纪影视本地仓库","sourceUrl":"clan://localhost//TVBox/本地仓库.json"}
 
 ]
 }
