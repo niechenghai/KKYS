@@ -1,27 +1,27 @@
 {
 "urls": [
         {
-            "url": "https://gitee.com/qfbj/KKYS/raw/main/TV",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/TV",
             "name": "🐭千方百纪专用🐮"
         },
           {
-            "url": "https://gitee.com/qfbj/KKYS/raw/main/GF",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/GF",
             "name": "🐯千方百纪官方🐰"
         },
                 {
-            "url": "https://gitee.com/qfbj/KKYS/raw/main/JX",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JX",
             "name": "🐉千方百纪精选🐍"
         },
         {
-            "url": "https://gitee.com/qfbj/KKYS/raw/main/RT",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/RT",
             "name": "🦄千方百纪儿童🐏"
         },
         {
-            "url": "https://gitee.com/qfbj/KKYS/raw/main/BL",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/BL",
             "name": "🐵千方百纪合集🐓"
         },
         {
-            "url": "https://gitee.com/qfbj/KKYS/raw/main/WP",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/WP",
             "name": "🐶千方百纪网盘🐷"
         },
         {
@@ -259,7 +259,7 @@
 
 "vip": [
     {
-            "url": "https://gitee.com/qfbj/KKYS/raw/main/CS",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/CS",
             "name": "🔞千方百纪测试🈲"
         },
         {"url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "🔞私人影院🈲"},

@@ -16,6 +16,48 @@
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "🐉肥猫线路"
         },
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐉云星日记"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🐉小米路线"
+        },
+        {
+            "url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json",
+            "name": "🐉香雅情线路"
+        },           
+        
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🐉运输车线路"
+        },
+        {
+            "url": "https://download.kstore.space/download/3313/mao/ymxx",
+            "name": "🐉夜猫子线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "name": "🐉荷塘荼秀线路"
+        },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "🐉道长线路"
+        },
+        {
+            "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json",
+            "name": "🐉业余分享"
+        },
+        
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🐉菜妮丝线路"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "🐉巧技线路"
+        },
         
         {
             "url": "http://tvbo.run.goorm.site/tangs.json",
@@ -24,32 +66,7 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🐉蜂蜜线路"
-        },                                                        
-        {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "🐉道长线路"
-        },                
-        {
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-            "name": "🐉小苹果线路"
-        },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🐉小米路线"
-        },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🐉运输车线路"
-        },
-        {
-            "url": "https://download.kstore.space/download/3313/mao/ymz",
-            "name": "🐉夜猫子线路"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": "🐉荷塘荼秀线路"
-        },
-        {
+        },                                                                                       {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "🐉元兴线路"
         },
@@ -58,21 +75,18 @@
             "name": "🐉胖鸭线路"
         },
         {
+            "url": "https://www.bestpvp.site/关注码上放生/时光机",
+            "name": "🐉码上时光机"
+        },
+        {
+            "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+            "name": "🐉儿童专享"
+        },
+        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
             "name": "🐉Yosakoii线路"
-        },                      
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "🐉菜妮丝线路"
-        },
-        {
-            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
-            "name": "🐉香雅情线路"
-        },           
-        {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🐉巧技线路"
-        },
+        }, 
+        
         {
             "url": "http://101.34.67.237/config/1",
             "name": "🐉小雅线路"
@@ -98,17 +112,7 @@
             "url": "https://app.easybox.vip/dy",
             "name": "🐉easybox线路"
         },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "🐉云星日记"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8",
-            "name": "🐉云星阿里"
-        },{
-            "url": "http://itvbox.cc/tvbox/云星日记/bili.m3u8",
-            "name": "🐉云星哔哩"
-        },        
+        
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
             "name": "🐉月光宝盒"

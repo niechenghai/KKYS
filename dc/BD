@@ -1,29 +1,29 @@
-//此仓库由千方百纪整合收集！纯业余爱好！
+//此仓库由百晓生整合收集！纯业余爱好！
 {
     "urls": [
         {
             "url": "clan://localhost/KKYS/TV",
-            "name": "🐭千方百纪专用【本地】🐮"
+            "name": "🐭百晓生专用【本地】🐮"
         },
           {
             "url": "clan://localhost/KKYS/GF",
-            "name": "🐯千方百纪官方【本地】🐰"
+            "name": "🐯百晓生官方【本地】🐰"
         },
                 {
             "url": "clan://localhost/KKYS/JX",
-            "name": "🐉千方百纪精选【本地】🐍"
+            "name": "🐉百晓生精选【本地】🐍"
         },
         {
             "url": "clan://localhost/KKYS/RT",
-            "name": "🦄千方百纪儿童【本地】🐏"
+            "name": "🦄百晓生儿童【本地】🐏"
         },
         {
             "url": "clan://localhost/KKYS/BL",
-            "name": "🐵千方百纪合集【本地】🐓"
+            "name": "🐵百晓生合集【本地】🐓"
         },
         {
             "url": "clan://localhost/KKYS/WP",
-            "name": "🐶千方百纪网盘【本地】🐷"
+            "name": "🐶百晓生网盘【本地】🐷"
         }      
         
 
