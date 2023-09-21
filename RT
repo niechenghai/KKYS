@@ -9,19 +9,19 @@
 //"wallpaper": "./wallpaper/01.png",
 
   "sites": [ 
-  {      "key": "少儿教育",      "name": "学习┃少儿教育",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://gitee.com/qfbj/KKYS/raw/main/Bili/少儿教育.json"    }, 
+  {      "key": "少儿教育",      "name": "学习┃少儿教育",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/Bili/少儿教育.json"    }, 
 
         
- {     "key": "小学课堂",      "name": "学习┃小学课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://gitee.com/qfbj/KKYS/raw/main/Bili/小学课堂.json"    },   
+ {     "key": "小学课堂",      "name": "学习┃小学课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/Bili/小学课堂.json"    },   
      
-       {      "key": "初中课堂",      "name": "学习┃初中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,  "jar": "./jar/02.jar",    "ext": "https://gitee.com/qfbj/KKYS/raw/main/Bili/初中课堂.json"    },   
+       {      "key": "初中课堂",      "name": "学习┃初中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,  "jar": "./jar/02.jar",    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/Bili/初中课堂.json"    },   
        
-         {      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://gitee.com/qfbj/KKYS/raw/main/Bili/高中课堂.json"    },
+         {      "key": "高中教育",      "name": "学习┃高中课堂",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,   "jar": "./jar/02.jar",   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/Bili/高中课堂.json"    },
 
  
  {      "key": "cps_bl_儿童乐园",      "name": "儿童┃儿童乐园",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "./Bili/儿童乐园.json"    },    
  
- {      "key": "cps_bl_学习园地",      "name": "知识┃学习园地",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://gitee.com/qfbj/KKYS/raw/main/Bili/学习园地.json"    },     
+ {      "key": "cps_bl_学习园地",      "name": "知识┃学习园地",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/Bili/学习园地.json"    },     
   
   
   {
@@ -32,7 +32,7 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 0,
-            "ext" : "https://gitee.com/qfbj/KKYS/raw/main/py/十二生肖.py"
+            "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/py/十二生肖.py"
         },
         
         {
@@ -43,17 +43,17 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 0,
-            "ext" : "https://gitee.com/qfbj/KKYS/raw/main/py/十二星座.py"
+            "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/py/十二星座.py"
         },
  
  
               
-{      "key": "直播10",      "name": "电视┃看会电视",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",     "ext": "千方百纪$https://gitee.com/qfbj/KKYS/raw/main/live/00.txt#康康影视$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#经典电视剧$https://gitee.com/qfbj/KKYS/raw/main/live/03.txt&&&https://api.caonm.net/api/mc/index.php"    },
+{      "key": "直播10",      "name": "电视┃看会电视",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",     "ext": "千方百纪$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/00.txt#康康影视$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#经典电视剧$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/03.txt&&&https://api.caonm.net/api/mc/index.php"    },
         
 
 {      "key": "短视频聚合",      "name": "合集┃刷会视频",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"./jar/04.jar",    "ext": "./json/短视频聚合.json"    },
 
-{"key":"哔哩影视","name":"影视┃哔哩哔哩","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://gitee.com/qfbj/KKYS/raw/main/JS/lib/drpy2.min.js","ext":"https://gitee.com/qfbj/KKYS/raw/main/JS/js/哔哩影视.js"},
+{"key":"哔哩影视","name":"影视┃哔哩哔哩","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/js/哔哩影视.js"},
 
 {
             "key" : "py_中国朝代",
@@ -63,12 +63,12 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 0,
-            "ext" : "https://gitee.com/qfbj/KKYS/raw/main/py/中国朝代.py"
+            "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/py/中国朝代.py"
         },
 
 
 
-{"key":"哔哩直播","name":"直播┃哔哩直播","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://gitee.com/qfbj/KKYS/raw/main/JS/lib/drpy2.min.js","ext":"https://gitee.com/qfbj/KKYS/raw/main/JS/js/哔哩直播.js"},
+{"key":"哔哩直播","name":"直播┃哔哩直播","type":3,"searchable": 0,      "quickSearch": 0,      "filterable": 0,"api":"https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/js/哔哩直播.js"},
 
 
 {      "key": "csp_xb_斗鱼直播",      "name": "直播┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "ext": "./json/斗鱼.json"    },  
@@ -87,7 +87,7 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 0,
-            "ext" : "https://gitee.com/qfbj/KKYS/raw/main/py/奥特曼.py"
+            "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/py/奥特曼.py"
         },
 
 
@@ -99,45 +99,45 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 0,
-            "ext" : "https://gitee.com/qfbj/KKYS/raw/main/py/喜羊羊与灰太狼.py"
+            "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/py/喜羊羊与灰太狼.py"
         },
         
-        {      "key": "cps_bl_影视解说",      "name": "合集┃影视解说",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://gitee.com/qfbj/KKYS/raw/main/Bili/影视解说.json"    }, 
+        {      "key": "cps_bl_影视解说",      "name": "合集┃影视解说",      "type": 3,      "api": "csp_Bili",      "searchable": 0,      "quickSearch": 0,      "filterable": 1,      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/Bili/影视解说.json"    }, 
         
 
-//{      "key": "直播1",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/小猪佩奇.txt"    },    
+//{      "key": "直播1",      "name": "动画┃小猪佩奇",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/小猪佩奇.txt"    },    
 
 
-//{      "key": "直播2",      "name": "动画┃熊出没",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/熊出没.txt"    },    
+//{      "key": "直播2",      "name": "动画┃熊出没",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/熊出没.txt"    },    
 
 
-//{      "key": "直播3",      "name": "动画┃七龙珠",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/七龙珠.txt"    },    
+//{      "key": "直播3",      "name": "动画┃七龙珠",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/七龙珠.txt"    },    
 
-//{      "key": "直播4",      "name": "动画┃数码宝贝",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/数码宝贝.txt"    },    
-
-
-//{      "key": "直播5",      "name": "动画┃贝乐虎儿歌",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/.txt"    },    
+//{      "key": "直播4",      "name": "动画┃数码宝贝",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/数码宝贝.txt"    },    
 
 
-//{      "key": "直播6",      "name": "动画┃超级宝贝",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/超级宝贝.txt"    },    
+//{      "key": "直播5",      "name": "动画┃贝乐虎儿歌",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/.txt"    },    
 
 
-//{      "key": "直播7",      "name": "动画┃儿歌多多",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/儿歌多多.txt"    },    
+//{      "key": "直播6",      "name": "动画┃超级宝贝",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/超级宝贝.txt"    },    
 
 
-//{      "key": "直播8",      "name": "动画┃名侦探柯南",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/名侦探柯南.txt"    },    
+//{      "key": "直播7",      "name": "动画┃儿歌多多",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/儿歌多多.txt"    },    
 
 
-//{      "key": "直播9",      "name": "动画┃哆啦A梦",      "type": 3,      "playerType": 1,      "api": "https://gitee.com/qfbj/KKYS/raw/main/JS/直播转点播.js",      "ext": "康康影视$https://gitee.com/qfbj/KKYS/raw/main/live/哆啦梦.txt"    },
-
- {      "key": "csp_Anime1",      "name": "动漫┃动漫系列",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "https://gitee.com/qfbj/KKYS/raw/main/jar/05.jar"    },     
+//{      "key": "直播8",      "name": "动画┃名侦探柯南",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/名侦探柯南.txt"    },    
 
 
-   {      "key": "去看动漫",      "name": "动漫┃去看动漫",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,  "jar": "https://gitee.com/qfbj/KKYS/raw/main/jar/05.jar",    "ext": "https://gitee.com/qfbj/KKYS/raw/main/json/去看动漫.json"    },    
+//{      "key": "直播9",      "name": "动画┃哆啦A梦",      "type": 3,      "playerType": 1,      "api": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/JS/直播转点播.js",      "ext": "康康影视$https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/live/哆啦梦.txt"    },
+
+ {      "key": "csp_Anime1",      "name": "动漫┃动漫系列",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/jar/05.jar"    },     
+
+
+   {      "key": "去看动漫",      "name": "动漫┃去看动漫",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/jar/05.jar",    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/json/去看动漫.json"    },    
    
-   {      "key": "动漫直链",      "name": "动漫┃动漫直链",      "type": 3,      "api": "csp_XPath",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,  "jar": "https://gitee.com/qfbj/KKYS/raw/main/jar/05.jar",    "ext": "https://gitee.com/qfbj/KKYS/raw/main/json/动漫直链.json"    },    
+   {      "key": "动漫直链",      "name": "动漫┃动漫直链",      "type": 3,      "api": "csp_XPath",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/jar/05.jar",    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/json/动漫直链.json"    },    
    
-   {      "key": "csp_biubiu_风车动漫",      "name": "动漫┃风车动漫",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://gitee.com/qfbj/KKYS/raw/main/jar/05.jar",   "ext": "https://gitee.com/qfbj/KKYS/raw/main/json/风车动漫.json"    }    
+   {      "key": "csp_biubiu_风车动漫",      "name": "动漫┃风车动漫",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/jar/05.jar",   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/QFBJ/KKYS/master/json/风车动漫.json"    }    
 
  
    ],  
