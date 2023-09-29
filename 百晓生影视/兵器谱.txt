@@ -34,7 +34,7 @@
 
 {"url":"clan://localhost/百晓生影视/绝代佳人/林诗音.json","name":"⑮绝代佳人〡林诗音"},
 
-{"url":"clan://localhost/百晓生影视/梦中情人/孙小红.json","name":"⑮梦中情人〡孙小红"}
+{"url":"clan://localhost/百晓生影视/梦中情人/孙小红.json","name":"⑯梦中情人〡孙小红"}
 
 
 ]
